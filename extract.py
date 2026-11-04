@@ -34,12 +34,16 @@ def extraction (url:str=API_URL, params:dict=params, timeout:float=10.0) -> list
     
     except requests.exceptions.Timeout:
         print("Server took long to respond")
+        sys.exit(1)
     except requests.exceptions.ConnectionError:
         print("Please check your Internet Connection")
+        sys.exit(1)
     except requests.exceptions.HTTPError:
         print("Bad status code")
+        sys.exit(1)
     except requests.exceptions.JSONDecodeError:
         print("Invalid JSON format")
+        sys.exit(1)
 
 # Initiate the transformation 
 
@@ -77,9 +81,11 @@ def transformation (payload:dict) -> pd.DataFrame:
     df["source"] = df["source"].astype(str)
     df["magnitude_value"] = df["magnitude_value"].astype(float)
     df["magnitude_unit"] = df["magnitude_unit"].astype(str)
-    df["event_date"] = pd.to_datetime(df["event_date"], errors="coerce", utc=True).dt.date
+    df["event_date"] = pd.to_datetime(df["event_date"], format= "mixed", errors="coerce", utc=True).dt.date
+    df["lon"] = df["lon"].astype(float)
+    df["lat"] = df["lat"].astype(float)
 
-    finale_columns = ["event_id", "event_title", "category_title", "source", "magnitude_value", "magnitude_unit", "event_date"]
+    finale_columns = ["event_id", "event_title", "category_title", "source", "magnitude_value", "magnitude_unit", "event_date", "lon", "lat"]
     df = df[finale_columns]
 
     return df
@@ -94,15 +100,9 @@ def load (df:pd.DataFrame, path=PATH_OUTPUT) -> None:
 
 
 
-
-
-
-
-
-
 def main():
     print("Extraction Initiated...\n")
-    payload = extraction(params={**params, "limit":10})
+    payload = extraction(params={**params, "limit":1000})
 
     if payload is None:
         print("**** Extraction failed ****")
@@ -127,12 +127,6 @@ def main():
     load(df, path=PATH_OUTPUT)
     print(f"CSV_FILE SUCCESSFULLY LOADED to {PATH_OUTPUT}")
     print("====HAPPY ENGINEERING!---------")
-
-
-
-
-    
-
 
 
 if __name__ == "__main__":

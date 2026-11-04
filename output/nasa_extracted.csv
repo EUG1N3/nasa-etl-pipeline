@@ -1,20 +1,1057 @@
-event_id,event_title,category_title,source,magnitude_value,magnitude_unit,event_date
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,35.0,kts,2026-11-01
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,40.0,kts,2026-11-01
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,55.0,kts,2026-11-01
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-01
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-02
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-02
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-03
-EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-03
-EONET_25984,"Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",Wildfires,IRWIN,902.0,acres,2026-10-30
-EONET_25990,Iceberg B22K,Sea and Lake Ice,NATICE,19.62,NM^2,2026-10-30
-EONET_25986,"Prescribed Fire McCarty Piles RX, Coconino, Arizona",Wildfires,IRWIN,832.0,acres,2026-10-29
-EONET_25985,"Prescribed Fire Freidland-Chimney Piles RX, Coconino, Arizona",Wildfires,IRWIN,1029.0,acres,2026-10-29
-EONET_25827,"Wildfire South Tank Trail, Perry, Mississippi",Wildfires,IRWIN,1000.0,acres,2026-10-28
-EONET_25829,"Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,784.0,acres,2026-10-28
-EONET_25830,"Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",Wildfires,IRWIN,700.0,acres,2026-10-28
-EONET_25828,"Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,756.0,acres,2026-10-28
-EONET_25769,"Wildfire Range  47B, Forrest, Mississippi",Wildfires,IRWIN,636.0,acres,2026-10-24
+event_id,event_title,category_title,source,magnitude_value,magnitude_unit,event_date,lon,lat
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,35.0,kts,2026-11-01,86.2,11.4
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,40.0,kts,2026-11-01,84.8,12.3
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,55.0,kts,2026-11-01,83.6,12.9
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-01,82.6,13.3
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-02,81.5,13.9
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02,80.9,14.2
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02,80.7,14.7
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-02,80.5,15.1
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-03,80.3,15.5
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-03,80.2,15.8
+EONET_25984,"Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",Wildfires,IRWIN,902.0,acres,2026-10-30,-111.616667,35.266667
+EONET_25990,Iceberg B22K,Sea and Lake Ice,NATICE,19.62,NM^2,2026-10-30,163.35,-69.76
+EONET_25986,"Prescribed Fire McCarty Piles RX, Coconino, Arizona",Wildfires,IRWIN,832.0,acres,2026-10-29,-111.262694,34.513944
+EONET_25985,"Prescribed Fire Freidland-Chimney Piles RX, Coconino, Arizona",Wildfires,IRWIN,1029.0,acres,2026-10-29,-111.666667,35.283333
+EONET_25827,"Wildfire South Tank Trail, Perry, Mississippi",Wildfires,IRWIN,1000.0,acres,2026-10-28,-89.097783,31.085833
+EONET_25829,"Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,784.0,acres,2026-10-28,-111.835978,35.259781
+EONET_25830,"Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",Wildfires,IRWIN,700.0,acres,2026-10-28,-111.315915,34.545833
+EONET_25828,"Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,756.0,acres,2026-10-28,-111.639444,35.017139
+EONET_25769,"Wildfire Range  47B, Forrest, Mississippi",Wildfires,IRWIN,636.0,acres,2026-10-24,-89.161,31.099
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,35.0,kts,2026-10-23,166.1,10.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,45.0,kts,2026-10-24,166.1,10.4
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,45.0,kts,2026-10-24,166.1,10.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,50.0,kts,2026-10-24,166.0,10.6
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,50.0,kts,2026-10-24,165.6,11.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,55.0,kts,2026-10-25,165.3,11.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,65.0,kts,2026-10-25,165.0,12.2
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-10-25,164.5,12.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,80.0,kts,2026-10-25,163.9,13.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,90.0,kts,2026-10-26,163.3,13.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-26,163.0,14.0
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-26,162.7,14.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,110.0,kts,2026-10-26,162.6,14.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,110.0,kts,2026-10-27,162.4,14.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,105.0,kts,2026-10-27,162.1,14.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,105.0,kts,2026-10-27,161.6,14.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,110.0,kts,2026-10-27,160.8,14.6
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,120.0,kts,2026-10-28,159.9,14.9
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,130.0,kts,2026-10-28,158.9,15.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,130.0,kts,2026-10-28,157.6,15.4
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,120.0,kts,2026-10-28,156.3,15.6
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-29,154.6,15.9
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,120.0,kts,2026-10-29,152.9,16.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,130.0,kts,2026-10-29,151.3,16.6
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,130.0,kts,2026-10-29,149.7,17.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,125.0,kts,2026-10-30,147.8,17.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,125.0,kts,2026-10-30,146.2,18.7
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,120.0,kts,2026-10-30,144.5,19.7
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-30,143.4,20.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-31,142.8,21.5
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,115.0,kts,2026-10-31,142.9,22.2
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,110.0,kts,2026-10-31,143.5,22.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,100.0,kts,2026-10-31,144.0,22.9
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,95.0,kts,2026-11-01,144.3,22.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,90.0,kts,2026-11-01,144.1,22.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,85.0,kts,2026-11-01,143.6,22.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-11-01,143.0,22.0
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,70.0,kts,2026-11-02,141.7,22.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,70.0,kts,2026-11-02,140.9,22.6
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,65.0,kts,2026-11-02,140.2,23.0
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,65.0,kts,2026-11-02,139.9,23.2
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,70.0,kts,2026-11-03,139.3,23.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,70.0,kts,2026-11-03,139.1,23.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-11-03,138.8,23.3
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,85.0,kts,2026-11-03,138.7,23.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,85.0,kts,2026-11-04,138.4,24.4
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,80.0,kts,2026-11-04,138.3,25.0
+EONET_25590,"Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",Wildfires,IRWIN,2060.0,acres,2026-10-22,-82.8577778,30.4952778
+EONET_25768,"Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",Wildfires,IRWIN,1989.0,acres,2026-10-21,-111.657083,34.962583
+EONET_25455,"Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",Wildfires,IRWIN,2604.0,acres,2026-10-18,-84.376511,36.948746
+EONET_25591,"Wildfire Bras, Sanders, Montana",Wildfires,IRWIN,1688.0,acres,2026-10-17,-114.5861111,47.2780556
+EONET_25450,"Wildfire COOLEY, Mendocino, California",Wildfires,IRWIN,1365.0,acres,2026-10-16,-123.188056,38.819722
+EONET_25452,"Wildfire NORTE, Orange, California",Wildfires,IRWIN,570.0,acres,2026-10-16,-117.63483,33.47965118
+EONET_25454,"Prescribed Fire Rx Polk 9275, Polk, Texas",Wildfires,IRWIN,900.0,acres,2026-10-16,-94.72916667,30.57111111
+EONET_25451,"Wildfire HENDERSON, San Diego, California",Wildfires,IRWIN,3260.0,acres,2026-10-15,-117.40938,33.34329
+EONET_25456,"Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",Wildfires,IRWIN,723.0,acres,2026-10-15,-111.65,35.016667
+EONET_25310,"Prescribed Fire Newman Piles RX, Coconino, Arizona",Wildfires,IRWIN,751.0,acres,2026-10-14,-111.65,35.016667
+EONET_25311,"Prescribed Fire Jane 102 RX, Harney, Oregon",Wildfires,IRWIN,3000.0,acres,2026-10-13,-118.766432,44.025847
+EONET_25312,"Prescribed Fire SRF 2026 Rx Implementation, Humboldt, California",Wildfires,IRWIN,500.0,acres,2026-10-12,-123.540573,41.300685
+EONET_25238,"Wildfire Buckhorn 2, Cassia, Idaho",Wildfires,IRWIN,2000.0,acres,2026-10-10,-114.102967,42.337217
+EONET_25233,"Wildfire PK, Sheridan, Wyoming",Wildfires,IRWIN,1645.0,acres,2026-10-09,-107.2199,44.7516
+EONET_25232,"Wildfire CYRUS, Kern, California",Wildfires,IRWIN,543.0,acres,2026-10-09,-118.418,35.69875
+EONET_25234,"Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",Wildfires,IRWIN,5019.0,acres,2026-10-09,-112.185988,36.73752
+EONET_25268,Iceberg B52,Sea and Lake Ice,NATICE,48.88,NM^2,2026-10-09,-130.24,-74.4
+EONET_25309,"Wildfire Craig Lake 1, Baraga, Michigan",Wildfires,IRWIN,604.0,acres,2026-10-08,-88.16960353,46.63331342
+EONET_25235,"Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",Wildfires,IRWIN,2000.0,acres,2026-10-08,-112.214205,36.754175
+EONET_25119,"Prescribed Fire CON BSE13 RX, Covington, Alabama",Wildfires,IRWIN,614.0,acres,2026-10-07,-86.526643,31.124246
+EONET_25240,"Prescribed Fire Bartlett Creek RX, Custer, Idaho",Wildfires,IRWIN,2000.0,acres,2026-10-06,-114.2,43.9
+EONET_25117,"Wildfire Jones, Elko, Nevada",Wildfires,IRWIN,1657.0,acres,2026-10-05,-115.20765,41.02195
+EONET_25592,"Prescribed Fire RX MFD Morrison Peak, Missoula, Montana",Wildfires,IRWIN,672.0,acres,2026-10-05,-113.615933,46.930733
+EONET_25239,"Prescribed Fire West Fork RX, Wasatch, Utah",Wildfires,IRWIN,730.0,acres,2026-10-05,-111.058383,40.4646
+EONET_25118,"Wildfire BOUQUET, Los Angeles, California",Wildfires,IRWIN,1048.0,acres,2026-10-03,-118.40183,34.561835
+EONET_25043,"Prescribed Fire D3 Bear RX, Greenlee, Arizona",Wildfires,IRWIN,5072.0,acres,2026-10-02,-109.401883,33.447133
+EONET_25042,"Wildfire Bull, Washoe, Nevada",Wildfires,IRWIN,1529.0,acres,2026-10-02,-119.987683,39.539067
+EONET_25236,"Prescribed Fire McCRAKEN RX-WRD CY26, Coconino, Arizona",Wildfires,IRWIN,530.0,acres,2026-10-01,-112.266889,35.116944
+EONET_25237,"Prescribed Fire KENDRICK RX-WRD CY26, Coconino, Arizona",Wildfires,IRWIN,1190.0,acres,2026-10-01,-111.909179,35.403321
+EONET_25045,"Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",Wildfires,IRWIN,719.0,acres,2026-09-30,-117.251676,45.701354
+EONET_24964,"Wildfire SAN FRANCISCO 2, Starr, Texas",Wildfires,IRWIN,510.0,acres,2026-09-30,-98.692222,26.286667
+EONET_24963,"Wildfire Hatch Grade, Walla Walla, Washington",Wildfires,IRWIN,5000.0,acres,2026-09-29,-118.8588,46.0322
+EONET_24965,"Wildfire 3 ALPHA SIERRA, Broward, Florida",Wildfires,IRWIN,774.0,acres,2026-09-28,-80.5952778,26.1341667
+EONET_25041,"Prescribed Fire Walker Hill Piles RX, Coconino, Arizona",Wildfires,IRWIN,725.0,acres,2026-09-28,-111.847278,35.281778
+EONET_24904,"Wildfire Rafter 4B, Schleicher, Texas",Wildfires,IRWIN,2125.0,acres,2026-09-26,-100.49806,30.76633
+EONET_24905,"Wildfire SECOND STREET, Benton, Washington",Wildfires,IRWIN,1151.0,acres,2026-09-25,-119.470139,46.253671
+EONET_25044,"Prescribed Fire Wolf A RX, Grant, Oregon",Wildfires,IRWIN,1620.0,acres,2026-09-24,-118.7167,44.1182
+EONET_24908,"Prescribed Fire Bonanza Ridge RX, Broadwater, Montana",Wildfires,IRWIN,550.0,acres,2026-09-24,-111.7702,46.2447
+EONET_24809,"Wildfire Merit Creek, Greene, Mississippi",Wildfires,IRWIN,828.0,acres,2026-09-23,-88.83785,31.052583
+EONET_24907,"Prescribed Fire Kelly Gulch RX, Lewis and Clark, Montana",Wildfires,IRWIN,1250.0,acres,2026-09-22,-111.726667,46.735
+EONET_24710,"Wildfire Round Prarie, Morehouse, Louisiana",Wildfires,IRWIN,738.55,acres,2026-09-20,-91.989455,32.858241
+EONET_24810,"Prescribed Fire CRAWFORD CORRAL RX, Tulare, California",Wildfires,IRWIN,690.0,acres,2026-09-19,-118.9721,36.601661
+EONET_24906,"Prescribed Fire Bear River MBR Unit 2c RX, Box Elder, Utah",Wildfires,IRWIN,710.0,acres,2026-09-18,-112.314683,41.4797
+EONET_24719,"Prescribed Fire D2 Dye RX, Coconino, Arizona",Wildfires,IRWIN,5246.0,acres,2026-09-17,-110.9112,34.43545
+EONET_24718,"Prescribed Fire D2 Vincent RX, Coconino, Arizona",Wildfires,IRWIN,2258.0,acres,2026-09-17,-110.965566,34.446292
+EONET_24483,"Wildfire Breezy, Starr, Texas",Wildfires,IRWIN,500.0,acres,2026-09-16,-98.712896,26.45826
+EONET_24488,"Wildfire FLORISTON, Nevada, California",Wildfires,IRWIN,610.0,acres,2026-09-16,-120.025216,39.394425
+EONET_24499,"Prescribed Fire RX CALV BU 104-108, Vernon, Louisiana",Wildfires,IRWIN,878.0,acres,2026-09-16,-93.164867,30.957333
+EONET_24482,"Wildfire Clark, Edwards, Texas",Wildfires,IRWIN,1523.0,acres,2026-09-16,-100.3453084,29.9328492
+EONET_24476,"Wildfire Calvary Creek, Washita, Oklahoma",Wildfires,IRWIN,905.9,acres,2026-09-15,-98.9880556,35.1580556
+EONET_24481,"Wildfire Dry River, Sutton, Texas",Wildfires,IRWIN,8761.0,acres,2026-09-15,-100.7446997,30.54096369
+EONET_24478,"Wildfire BLUE LAKE, Indian River, Florida",Wildfires,IRWIN,950.0,acres,2026-09-15,-80.7169444,27.7427778
+EONET_24485,"Wildfire Lobo, Eastland, Texas",Wildfires,IRWIN,658.0,acres,2026-09-15,-98.93066189,32.42654762
+EONET_24484,"Wildfire DOME, Mariposa, California",Wildfires,IRWIN,1177.0,acres,2026-09-15,-119.616167,37.5662
+EONET_24502,"Wildfire Bunker Fire, Calhoun, Arkansas",Wildfires,IRWIN,2338.0,acres,2026-09-15,-92.5861667,33.5743333
+EONET_24473,"Wildfire Hydra, Bosque, Texas",Wildfires,IRWIN,1100.0,acres,2026-09-14,-97.653304,31.848649
+EONET_24474,"Wildfire Atoka Lake, Atoka, Oklahoma",Wildfires,IRWIN,727.0,acres,2026-09-14,-96.1063889,34.4136111
+EONET_24475,"Wildfire Tram Trail, Pushmataha, Oklahoma",Wildfires,IRWIN,660.0,acres,2026-09-14,-95.3741667,34.2822222
+EONET_24490,"Wildfire Bunker Fire, Calhoun, Arkansas",Wildfires,IRWIN,2832.0,acres,2026-09-14,-92.5862323,33.5744871
+EONET_24477,"Wildfire Black Kettle, Roger Mills, Oklahoma",Wildfires,IRWIN,1526.5,acres,2026-09-14,-99.6561111,35.7588889
+EONET_24487,"Wildfire Davis Coulee, Big Horn, Montana",Wildfires,IRWIN,15470.0,acres,2026-09-14,-107.6275,45.5398
+EONET_24715,"Prescribed Fire D7 Rhoton Seep RX, Apache, Arizona",Wildfires,IRWIN,2609.0,acres,2026-09-14,-109.807526,34.156645
+EONET_24711,"Prescribed Fire D7 Morgan Unit 5 RX, Navajo, Arizona",Wildfires,IRWIN,2085.0,acres,2026-09-14,-110.122144,34.225084
+EONET_24713,"Prescribed Fire D7 Butler West RX, Apache, Arizona",Wildfires,IRWIN,788.0,acres,2026-09-14,-109.720126,34.191317
+EONET_24714,"Prescribed Fire D7 Brushy Mtn South RX, Apache, Arizona",Wildfires,IRWIN,887.0,acres,2026-09-14,-109.811902,34.127578
+EONET_24716,"Prescribed Fire D7 Arab RX, Apache, Arizona",Wildfires,IRWIN,674.0,acres,2026-09-14,-109.725244,34.210496
+EONET_24712,"Prescribed Fire D7 Apprentice RX, Apache, Arizona",Wildfires,IRWIN,2375.0,acres,2026-09-14,-109.821408,34.183939
+EONET_24717,"Prescribed Fire D6 Wallow West Unit 6 RX, Apache, Arizona",Wildfires,IRWIN,7605.0,acres,2026-09-13,-109.4382,33.7988
+EONET_24486,"Wildfire GRACEMONT, Caddo, Oklahoma",Wildfires,IRWIN,2665.0,acres,2026-09-13,-98.236762,35.322764
+EONET_24498,"Wildfire Star Lake, Jefferson, Texas",Wildfires,IRWIN,16412.0,acres,2026-09-11,-94.158617,29.664158
+EONET_24489,"Wildfire LUCAS, Lake, California",Wildfires,IRWIN,4128.0,acres,2026-09-10,-123.002756,39.231856
+EONET_24510,"Wildfire LUCAS, Lake, California",Wildfires,IRWIN,1099.0,acres,2026-09-10,-123.003217,39.233117
+EONET_24503,"Wildfire RAY COAKER, Washington, Alabama",Wildfires,IRWIN,707.0,acres,2026-09-09,-88.3208333,31.3738889
+EONET_24189,"Wildfire MEERS, Comanche, Oklahoma",Wildfires,IRWIN,914.0,acres,2026-09-08,-98.67792,34.840579
+EONET_24185,"Wildfire Kurk, San Saba, Texas",Wildfires,IRWIN,1000.0,acres,2026-09-08,-98.653084,31.060181
+EONET_24192,"Wildfire PINTO, Stephens, Oklahoma",Wildfires,IRWIN,553.0,acres,2026-09-08,-97.5925,34.413611
+EONET_24187,"Wildfire Moonshine, Albany, Wyoming",Wildfires,IRWIN,2000.0,acres,2026-09-07,-105.321617,41.95365
+EONET_24100,"Wildfire S7, Broward, Florida",Wildfires,IRWIN,884.0,acres,2026-09-04,-80.4997222,26.3258333
+EONET_24096,"Wildfire Needles, Oglala Lakota, South Dakota",Wildfires,IRWIN,6017.81,acres,2026-09-04,-102.311123,43.30421421
+EONET_24095,"Incident Complex Rattlesnake Complex, Prairie, Montana",Wildfires,IRWIN,15582.0,acres,2026-09-04,-104.927967,46.586036
+EONET_23868,"Emergency Stabilization BAER McConnell, Humboldt, Nevada",Wildfires,IRWIN,500.0,acres,2026-09-03,-117.74215,41.517567
+EONET_23869,"Wildfire Ayers Pond, Prairie, Montana",Wildfires,IRWIN,565.8,acres,2026-09-03,-104.83045,46.65069
+EONET_23870,"Wildfire Snow, Custer, Montana",Wildfires,IRWIN,1100.0,acres,2026-09-02,-105.185017,46.48575
+EONET_24098,"Wildfire Fowl, Harding, New Mexico",Wildfires,IRWIN,822.0,acres,2026-09-02,-103.7858,35.5693
+EONET_23656,"Wildfire Ruggs, Morrow, Oregon",Wildfires,IRWIN,650.0,acres,2026-08-31,-119.69069,45.253405
+EONET_23658,"Wildfire Harris, Throckmorton, Texas",Wildfires,IRWIN,500.0,acres,2026-08-31,-99.07646449,33.05632251
+EONET_23685,"Wildfire SOUTH RAILROAD, Comanche, Oklahoma",Wildfires,IRWIN,500.0,acres,2026-08-30,-98.7205,34.6084
+EONET_23673,"Wildfire Alexander Trail Fire, Pushmataha, Oklahoma",Wildfires,IRWIN,1400.0,acres,2026-08-30,-95.2966667,34.4777778
+EONET_23871,"Wildfire Alexander Trail, Pushmataha, Oklahoma",Wildfires,IRWIN,1600.0,acres,2026-08-30,-95.2966667,34.4777778
+EONET_23683,"Wildfire 4V, San Miguel, New Mexico",Wildfires,IRWIN,1000.0,acres,2026-08-29,-104.295,35.535
+EONET_23674,"Wildfire WRIGHT, Hughes, Oklahoma",Wildfires,IRWIN,608.0,acres,2026-08-29,-96.1149,35.224667
+EONET_23676,"Wildfire RAILROAD SOUTH, Comanche, Oklahoma",Wildfires,IRWIN,515.0,acres,2026-08-29,-98.7205,34.6084
+EONET_23666,"Wildfire McKee Draw, Edwards, Texas",Wildfires,IRWIN,4416.0,acres,2026-08-29,-100.3149,30.18416667
+EONET_23664,"Wildfire West Fork, Sutton, Texas",Wildfires,IRWIN,961.0,acres,2026-08-28,-100.1516574,30.36872624
+EONET_23669,"Wildfire Roe 2, Beaverhead, Montana",Wildfires,IRWIN,978.0,acres,2026-08-27,-112.77825,44.921867
+EONET_23668,"Wildfire Brushy Canyon, Box Elder, Utah",Wildfires,IRWIN,10002.0,acres,2026-08-27,-112.4795,41.288667
+EONET_23453,"Wildfire Calico, Humboldt, Nevada",Wildfires,IRWIN,10000.0,acres,2026-08-26,-117.3563,41.86665
+EONET_23672,"Wildfire Dudley, Shoshone, Idaho",Wildfires,IRWIN,553.0,acres,2026-08-26,-115.920767,47.539417
+EONET_23681,"Wildfire Plaskett, Monterey, California",Wildfires,IRWIN,15479.0,acres,2026-08-26,-121.4125,35.905667
+EONET_23455,"Wildfire McConnell, Humboldt, Nevada",Wildfires,IRWIN,5000.0,acres,2026-08-25,-117.74215,41.517567
+EONET_23466,"Wildfire LAUGHLIN, Colfax, New Mexico",Wildfires,IRWIN,786.0,acres,2026-08-25,-104.4530556,36.5230556
+EONET_23456,"Wildfire MUSTANG, Malheur, Oregon",Wildfires,IRWIN,13379.0,acres,2026-08-25,-117.442833,42.667167
+EONET_23663,"Wildfire Blue Eagle, Churchill, Nevada",Wildfires,IRWIN,9218.0,acres,2026-08-25,-117.69345,39.751733
+EONET_23682,"Wildfire Paddy Creek, Apache, Arizona",Wildfires,IRWIN,668.0,acres,2026-08-25,-109.649486,33.620704
+EONET_23677,"Wildfire Buck Creek, Pushmataha, Oklahoma",Wildfires,IRWIN,597.0,acres,2026-08-25,-95.6938889,34.4980556
+EONET_23462,"Wildfire California  Creek, Elko, Nevada",Wildfires,IRWIN,984.0,acres,2026-08-25,-115.93761,41.82602
+EONET_23667,"Wildfire FLINT, Owyhee, Idaho",Wildfires,IRWIN,6763.0,acres,2026-08-24,-116.822,42.882167
+EONET_23659,"Wildfire Forleen, Elko, Nevada",Wildfires,IRWIN,667.0,acres,2026-08-24,-115.036467,41.445417
+EONET_23671,"Wildfire Rio Escondido, Hamilton, Texas",Wildfires,IRWIN,2713.0,acres,2026-08-24,-98.12037,31.49444497
+EONET_23459,"Wildfire Tom Creek, Tooele, Utah",Wildfires,IRWIN,4859.0,acres,2026-08-24,-112.705867,40.00455
+EONET_23452,"Wildfire Ross, Palo Pinto, Texas",Wildfires,IRWIN,80000.0,acres,2026-08-24,-98.34256986,32.75981855
+EONET_23458,"Wildfire Oxley, Elko, Nevada",Wildfires,IRWIN,11384.0,acres,2026-08-24,-114.930833,41.1845
+EONET_23461,"Wildfire H2, Palm Beach, Florida",Wildfires,IRWIN,511.0,acres,2026-08-24,-80.7905556,26.4197222
+EONET_23465,"Wildfire Rabbit Ear East, Union, New Mexico",Wildfires,IRWIN,1700.0,acres,2026-08-24,-103.141587,36.504679
+EONET_23463,"Wildfire Mitchell, Ware, Georgia",Wildfires,IRWIN,735.0,acres,2026-08-24,-82.241083,30.630467
+EONET_23209,"Wildfire Old Deer, Carson, Texas",Wildfires,IRWIN,676.0,acres,2026-08-23,-101.217,35.4635
+EONET_23661,"Wildfire Nature Grove, Ravalli, Montana",Wildfires,IRWIN,1141.0,acres,2026-08-23,-113.924333,46.1535
+EONET_23225,"Wildfire 22, Miami-Dade, Florida",Wildfires,IRWIN,500.0,acres,2026-08-23,-80.5444444,25.9427778
+EONET_23665,"Wildfire Parker Lake, Boundary, Idaho",Wildfires,IRWIN,1403.0,acres,2026-08-23,-116.6247,48.870133
+EONET_23662,"Wildfire Campwood, Yavapai, Arizona",Wildfires,IRWIN,1215.0,acres,2026-08-23,-113.10128,34.6253
+EONET_23680,"Wildfire Silver, Boundary, Idaho",Wildfires,IRWIN,2424.0,acres,2026-08-23,-116.660283,48.628867
+EONET_23215,"Wildfire Rustler, Motley, Texas",Wildfires,IRWIN,1300.0,acres,2026-08-23,-100.9927167,33.8381
+EONET_23454,"Wildfire Electric, Whatcom, Washington",Wildfires,IRWIN,500.0,acres,2026-08-22,-121.4353,48.652417
+EONET_23679,"Wildfire GOAT, Kittitas, Washington",Wildfires,IRWIN,707.0,acres,2026-08-22,-121.052783,47.458917
+EONET_23219,"Wildfire Shale Butte, Lincoln, Idaho",Wildfires,IRWIN,1500.0,acres,2026-08-22,-113.8483,42.961617
+EONET_23684,"Wildfire Thunder Creek, Skagit, Washington",Wildfires,IRWIN,648.0,acres,2026-08-22,-121.0287,48.549617
+EONET_23211,"Wildfire McCulley, Baker, Oregon",Wildfires,IRWIN,1201.8,acres,2026-08-22,-118.280776,44.827902
+EONET_23218,"Wildfire Hawk, Washoe, Nevada",Wildfires,IRWIN,15051.0,acres,2026-08-22,-119.952333,39.5425
+EONET_23460,"Wildfire Hawk, Washoe, Nevada",Wildfires,IRWIN,15085.0,acres,2026-08-22,-119.952333,39.5425
+EONET_23214,"Wildfire Colwash, Yakima, Washington",Wildfires,IRWIN,38599.0,acres,2026-08-22,-120.19615,46.17514
+EONET_23451,"Wildfire Camp Creek, Powell, Montana",Wildfires,IRWIN,7240.0,acres,2026-08-21,-113.099333,47.427667
+EONET_24492,"Wildfire WHISKEY, Torrance, New Mexico",Wildfires,IRWIN,542.0,acres,2026-08-21,-106.431885,34.678749
+EONET_23224,"Wildfire Chipmunk, Miami-Dade, Florida",Wildfires,IRWIN,15508.0,acres,2026-08-21,-80.836833,25.545083
+EONET_23228,"Wildfire BISON, Osage, Oklahoma",Wildfires,IRWIN,889.0,acres,2026-08-21,-96.338449,36.876944
+EONET_23230,"Wildfire 2690, Caddo, Oklahoma",Wildfires,IRWIN,900.0,acres,2026-08-21,-98.185052,35.164635
+EONET_23217,"Wildfire Salt Wells, Box Elder, Utah",Wildfires,IRWIN,585.0,acres,2026-08-21,-112.677817,41.80951
+EONET_23213,"Wildfire Pine Tree Rd, Union, Arkansas",Wildfires,IRWIN,2328.0,acres,2026-08-20,-92.49237337,33.16826652
+EONET_23210,"Wildfire Deer Creek, Lincoln, Montana",Wildfires,IRWIN,949.0,acres,2026-08-20,-115.08586,48.16151
+EONET_24493,"Wildfire Swiss Roll, Archuleta, Colorado",Wildfires,IRWIN,775.0,acres,2026-08-20,-106.786583,37.38545
+EONET_22927,"Prescribed Fire RX Tom Green 7105, Tom Green, Texas",Wildfires,IRWIN,560.0,acres,2026-08-20,-100.4783333,31.14888889
+EONET_23212,"Wildfire KING, Kittitas, Washington",Wildfires,IRWIN,558.0,acres,2026-08-19,-121.255867,47.4708
+EONET_23222,"Wildfire Movie Dome, Miami-Dade, Florida",Wildfires,IRWIN,6222.0,acres,2026-08-19,-80.823433,25.434317
+EONET_22931,"Wildfire Windmill, Stillwater, Montana",Wildfires,IRWIN,1000.0,acres,2026-08-19,-109.52349,45.8358
+EONET_22929,"Wildfire North Heglar, Cassia, Idaho",Wildfires,IRWIN,700.0,acres,2026-08-19,-113.094917,42.490167
+EONET_23220,"Wildfire CROOKED, Boise, Idaho",Wildfires,IRWIN,1530.0,acres,2026-08-18,-115.539617,43.847167
+EONET_22933,"Wildfire Sarpy, Big Horn, Montana",Wildfires,IRWIN,897.0,acres,2026-08-17,-107.4745,45.718833
+EONET_22928,"Wildfire Mukluk, Southeast Fairbanks, Alaska",Wildfires,IRWIN,5077.0,acres,2026-08-17,-143.0636,63.34225
+EONET_22798,"Wildfire Picture Rock, Lake, Oregon",Wildfires,IRWIN,1625.0,acres,2026-08-16,-120.774487,43.00919
+EONET_22932,"Wildfire Jackson - Hwy 90, Jackson, Mississippi",Wildfires,IRWIN,1428.0,acres,2026-08-16,-88.4663889,30.4175
+EONET_22800,"Wildfire CATO 2, Chaves, New Mexico",Wildfires,IRWIN,2080.0,acres,2026-08-15,-103.9452,33.50765
+EONET_22791,"Wildfire THE H1, Palm Beach, Florida",Wildfires,IRWIN,3600.0,acres,2026-08-15,-80.7516667,26.3688889
+EONET_22799,"Wildfire THE RADIO TOWER, Miami-Dade, Florida",Wildfires,IRWIN,700.0,acres,2026-08-15,-80.4744444,25.7111111
+EONET_22795,"Wildfire Shoshone, Churchill, Nevada",Wildfires,IRWIN,7934.0,acres,2026-08-15,-117.67618,39.82989
+EONET_22790,"Wildfire Burnt Canyon, Woodward, Oklahoma",Wildfires,IRWIN,3335.0,acres,2026-08-15,-99.2663889,36.5955556
+EONET_23221,"Wildfire Slough Canyon, Grand, Utah",Wildfires,IRWIN,3000.0,acres,2026-08-15,-109.9232,39.3697
+EONET_23216,"Wildfire SISI, Chelan, Washington",Wildfires,IRWIN,801.0,acres,2026-08-14,-120.830667,48.346667
+EONET_22801,"Wildfire Snake Mountain, Pushmataha, Oklahoma",Wildfires,IRWIN,703.0,acres,2026-08-14,-95.1797222,34.4830556
+EONET_23226,"Wildfire Main Trail, Chatham, Georgia",Wildfires,IRWIN,820.0,acres,2026-08-14,-80.988258,31.872544
+EONET_22796,"Wildfire Fielder Mtn, Jackson, Oregon",Wildfires,IRWIN,573.0,acres,2026-08-13,-123.2067743,42.4217473
+EONET_22614,"Wildfire PLAINS, San Luis Obispo, California",Wildfires,IRWIN,2500.0,acres,2026-08-12,-120.001456,35.416592
+EONET_22802,"Wildfire Austin Non-Stat, Clackamas, Oregon",Wildfires,IRWIN,1000.0,acres,2026-08-12,-121.9549232,45.02547389
+EONET_22607,"Wildfire Sheep Pen, Las Animas, Colorado",Wildfires,IRWIN,712.0,acres,2026-08-12,-103.285535,37.075637
+EONET_22619,"Wildfire Rancher fire, Oglala Lakota, South Dakota",Wildfires,IRWIN,1000.0,acres,2026-08-11,-102.3327778,43.3141667
+EONET_22609,"Wildfire Post, Las Animas, Colorado",Wildfires,IRWIN,4205.0,acres,2026-08-11,-104.421389,37.081944
+EONET_22616,"Wildfire XU Hill, Oglala Lakota, South Dakota",Wildfires,IRWIN,1297.23,acres,2026-08-11,-102.4230758,43.62272514
+EONET_22610,"Wildfire Dos Pistolas, Brooks, Texas",Wildfires,IRWIN,1000.0,acres,2026-08-11,-98.35722222,27.10444444
+EONET_22613,"Wildfire ALPOWA, Asotin, Washington",Wildfires,IRWIN,1334.0,acres,2026-08-11,-117.24742,46.40578
+EONET_22617,"Wildfire Cold Springs, Converse, Wyoming",Wildfires,IRWIN,1966.0,acres,2026-08-10,-105.491389,42.724444
+EONET_22622,"Prescribed Fire RX Tom Green 6687, Tom Green, Texas",Wildfires,IRWIN,860.0,acres,2026-08-10,-100.4636111,31.15027778
+EONET_22618,"Wildfire Bufford Creek, Stephens, Texas",Wildfires,IRWIN,3240.0,acres,2026-08-10,-98.82243696,32.7971975
+EONET_22612,"Wildfire Stallion, Washoe, Nevada",Wildfires,IRWIN,33426.0,acres,2026-08-10,-119.525167,39.822833
+EONET_22430,"Wildfire Harris, Rosebud, Montana",Wildfires,IRWIN,924.3,acres,2026-08-09,-106.634317,45.195183
+EONET_22424,"Wildfire WEISER KNOLL, Fremont, Wyoming",Wildfires,IRWIN,8500.0,acres,2026-08-09,-108.607547,42.636437
+EONET_22611,"Wildfire AUSTIN, Clackamas, Oregon",Wildfires,IRWIN,1430.0,acres,2026-08-09,-121.944872,45.025216
+EONET_22428,"Wildfire Brown, Oldham, Texas",Wildfires,IRWIN,800.0,acres,2026-08-09,-102.989,35.3735
+EONET_22427,"Wildfire Fred Mt, Washoe, Nevada",Wildfires,IRWIN,1400.0,acres,2026-08-09,-119.8492,39.762667
+EONET_22431,"Wildfire Timber, Monterey, California",Wildfires,IRWIN,800.0,acres,2026-08-09,-121.717508,36.215894
+EONET_22434,"Wildfire PALOUSE RIVER, Whitman, Washington",Wildfires,IRWIN,637.0,acres,2026-08-08,-117.307978,46.870892
+EONET_22432,"Wildfire Bug, Lassen, California",Wildfires,IRWIN,15000.0,acres,2026-08-08,-120.038117,39.727883
+EONET_22436,"Wildfire WELLS ROAD, Whitman, Washington",Wildfires,IRWIN,1812.0,acres,2026-08-08,-117.51,47.24
+EONET_22426,"Wildfire NUNAMAKER ROAD, Franklin, Washington",Wildfires,IRWIN,20870.0,acres,2026-08-08,-118.4075,46.5942
+EONET_22425,"Wildfire LITTLE GOOSE, Columbia, Washington",Wildfires,IRWIN,8524.0,acres,2026-08-07,-118.09,46.536
+EONET_22433,"Wildfire MP18, Humboldt, California",Wildfires,IRWIN,1500.0,acres,2026-08-07,-123.685,41.1330556
+EONET_22446,"Wildfire Rocky Canyon, Morgan, Utah",Wildfires,IRWIN,4372.0,acres,2026-08-07,-111.642133,40.939517
+EONET_22442,"Wildfire RIDGE, Los Angeles, California",Wildfires,IRWIN,1134.0,acres,2026-08-07,-118.82999,34.79108
+EONET_22454,"Wildfire Montgomery Draw, Campbell, Wyoming",Wildfires,IRWIN,536.0,acres,2026-08-06,-105.8556,44.366767
+EONET_22445,"Wildfire COTTONWOOD, Grant, Oregon",Wildfires,IRWIN,723.0,acres,2026-08-06,-119.380383,44.628133
+EONET_22444,"Wildfire 310, Garfield, Colorado",Wildfires,IRWIN,601.0,acres,2026-08-06,-107.983983,39.44445
+EONET_22447,"Wildfire B.B, Osage, Oklahoma",Wildfires,IRWIN,2304.0,acres,2026-08-06,-96.461093,36.907919
+EONET_22196,"Wildfire Wrights Spring, Klamath, Oregon",Wildfires,IRWIN,1200.0,acres,2026-08-05,-121.728667,42.4695
+EONET_22195,"Wildfire BUZZARD, Kern, California",Wildfires,IRWIN,500.0,acres,2026-08-05,-118.9227778,34.8997222
+EONET_22429,"Wildfire Frijoles, Santa Fe, New Mexico",Wildfires,IRWIN,3000.0,acres,2026-08-05,-105.848167,35.908667
+EONET_22197,"Wildfire Bare, Sublette, Wyoming",Wildfires,IRWIN,800.0,acres,2026-08-04,-110.48225,42.758633
+EONET_22201,"Wildfire Butte, Gila, Arizona",Wildfires,IRWIN,670.0,acres,2026-08-03,-110.163611,33.509722
+EONET_22198,"Wildfire GANN, Calaveras, California",Wildfires,IRWIN,10373.0,acres,2026-08-03,-120.77336,38.111446
+EONET_22101,"Wildfire Middle Coulee, Chouteau, Montana",Wildfires,IRWIN,1200.0,acres,2026-08-02,-110.990383,47.733335
+EONET_22108,"Wildfire Antelope Creek, Elko, Nevada",Wildfires,IRWIN,6500.0,acres,2026-08-02,-116.543867,41.049033
+EONET_22105,"Wildfire Bluegill, Miami-Dade, Florida",Wildfires,IRWIN,750.0,acres,2026-08-02,-80.606167,25.75775
+EONET_22107,"Wildfire MITRE ROCK, Stevens, Washington",Wildfires,IRWIN,1547.0,acres,2026-08-01,-118.328486,47.911635
+EONET_22109,"Wildfire Johnson Canyon, Box Elder, Utah",Wildfires,IRWIN,6500.0,acres,2026-08-01,-112.304918,41.874782
+EONET_22443,"Wildfire Black Bear, Ravalli, Montana",Wildfires,IRWIN,1469.0,acres,2026-08-01,-113.8895,46.167967
+EONET_22127,"Wildfire Semi 270, Woodward, Oklahoma",Wildfires,IRWIN,682.0,acres,2026-08-01,-99.5161667,36.5143333
+EONET_22115,"Wildfire Eggo, Wallowa, Oregon",Wildfires,IRWIN,3774.0,acres,2026-08-01,-117.0871,45.6696
+EONET_22125,"Wildfire HUDSPETH, Stevens, Washington",Wildfires,IRWIN,4211.0,acres,2026-08-01,-118.158917,48.08845
+EONET_22104,"Wildfire AUTUMN LANE, Spokane, Washington",Wildfires,IRWIN,3351.0,acres,2026-08-01,-117.612833,47.7945
+EONET_22110,"Wildfire FELIZ, Mendocino, California",Wildfires,IRWIN,872.0,acres,2026-08-01,-123.16114,38.99246
+EONET_22119,"Wildfire 0658 ROUND BUTTE, Jefferson, Oregon",Wildfires,IRWIN,1039.0,acres,2026-08-01,-121.224778,44.600111
+EONET_22111,"Wildfire FAIRVIEW, Spokane, Washington",Wildfires,IRWIN,1056.0,acres,2026-08-01,-117.3577,47.750926
+EONET_22116,"Wildfire Sand Creek, Beaverhead, Montana",Wildfires,IRWIN,1000.0,acres,2026-08-01,-113.325667,45.554667
+EONET_22112,"Wildfire OLD TRAILS, Spokane, Washington",Wildfires,IRWIN,3619.0,acres,2026-08-01,-117.533414,47.683851
+EONET_22128,"Wildfire Potato Creek, Jackson, South Dakota",Wildfires,IRWIN,8969.3,acres,2026-08-01,-102.07303,43.563356
+EONET_22106,"Wildfire Big Rock, Jefferson, Idaho",Wildfires,IRWIN,2482.0,acres,2026-07-31,-111.664267,43.63805
+EONET_22121,"Wildfire Bobcat Lakes, Beaverhead, Montana",Wildfires,IRWIN,755.0,acres,2026-07-31,-113.203883,45.636817
+EONET_22100,"Wildfire Lumin, Sheridan, Wyoming",Wildfires,IRWIN,7267.0,acres,2026-07-31,-106.4085,44.8235
+EONET_22114,"Wildfire Ant Park, Meagher, Montana",Wildfires,IRWIN,700.0,acres,2026-07-31,-110.639667,46.7365
+EONET_22103,"Wildfire Ward, White Pine, Nevada",Wildfires,IRWIN,8200.0,acres,2026-07-31,-114.89485,39.103167
+EONET_22120,"Wildfire Black Canyon, Sanpete, Utah",Wildfires,IRWIN,500.0,acres,2026-07-30,-111.307967,39.383
+EONET_22202,"Wildfire Moose Mountain, Clearwater, Idaho",Wildfires,IRWIN,660.0,acres,2026-07-30,-115.2167,46.774933
+EONET_21965,"Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",Wildfires,IRWIN,600.0,acres,2026-07-30,-81.6666667,30.9780556
+EONET_22448,"Wildfire Lake Channel, Power, Idaho",Wildfires,IRWIN,2516.39,acres,2026-07-29,-113.020005,42.665061
+EONET_22608,"Wildfire Grotto, Idaho, Idaho",Wildfires,IRWIN,900.0,acres,2026-07-29,-115.093667,46.2559
+EONET_22123,"Wildfire Skillet, Lincoln, Montana",Wildfires,IRWIN,1318.0,acres,2026-07-29,-114.86665,48.491333
+EONET_21968,"Wildfire Duhamel, Pennington, South Dakota",Wildfires,IRWIN,531.0,acres,2026-07-29,-102.269833,44.437
+EONET_21976,"Wildfire HOLEY LAND (6), Broward, Florida",Wildfires,IRWIN,3900.0,acres,2026-07-28,-80.8119444,26.26
+EONET_22118,"Wildfire Rio Blanco, Archuleta, Colorado",Wildfires,IRWIN,1083.0,acres,2026-07-28,-106.985207,37.124649
+EONET_21977,"Wildfire L 28, Broward, Florida",Wildfires,IRWIN,1000.0,acres,2026-07-28,-80.8295,26.240333
+EONET_21966,"Wildfire Widemouth 2, Millard, Utah",Wildfires,IRWIN,5926.0,acres,2026-07-27,-112.498983,38.728917
+EONET_21973,"Wildfire Potato Creek, Jackson, South Dakota",Wildfires,IRWIN,9000.0,acres,2026-07-27,-102.0730299,43.56335643
+EONET_21971,"Wildfire FISH, Kern, California",Wildfires,IRWIN,4201.0,acres,2026-07-27,-118.65,35.2816667
+EONET_21969,"Wildfire Rayado Mesa, Colfax, New Mexico",Wildfires,IRWIN,934.0,acres,2026-07-27,-104.8503,36.3258
+EONET_21829,"Wildfire Fairpoint, Meade, South Dakota",Wildfires,IRWIN,510.0,acres,2026-07-27,-102.8436111,44.7638889
+EONET_21972,"Wildfire Kohns, Campbell, Wyoming",Wildfires,IRWIN,2700.0,acres,2026-07-27,-105.096105,44.456138
+EONET_21835,"Wildfire Twin Butte Ck, Corson, South Dakota",Wildfires,IRWIN,890.0,acres,2026-07-27,-101.8215463,45.50605836
+EONET_22122,"Wildfire Moose, Granite, Montana",Wildfires,IRWIN,594.0,acres,2026-07-26,-113.69075,46.0722
+EONET_21821,"Wildfire SINLAHEKIN, Okanogan, Washington",Wildfires,IRWIN,939.0,acres,2026-07-26,-119.693117,48.704617
+EONET_21856,"Wildfire RANSIER, Yakima, Washington",Wildfires,IRWIN,500.0,acres,2026-07-26,-120.742096,46.366533
+EONET_21846,"Wildfire Alice, Harding, South Dakota",Wildfires,IRWIN,500.0,acres,2026-07-26,-103.533033,45.85795
+EONET_21859,"Wildfire KAWAIHAE ROAD, Hawaii, Hawaii",Wildfires,IRWIN,500.0,acres,2026-07-26,-155.792517,20.01978
+EONET_21818,"Wildfire Chimney, Elko, Nevada",Wildfires,IRWIN,12000.0,acres,2026-07-26,-116.988933,41.441783
+EONET_21819,"Wildfire New Pass, Churchill, Nevada",Wildfires,IRWIN,5000.0,acres,2026-07-26,-117.486992,39.698784
+EONET_21831,"Wildfire SR - Buffalo, Sheridan, Wyoming",Wildfires,IRWIN,1200.0,acres,2026-07-26,-106.320165,44.792721
+EONET_21861,"Wildfire Island, La Paz, Arizona",Wildfires,IRWIN,2815.0,acres,2026-07-26,-114.681482,33.279651
+EONET_21813,"Wildfire Secret Pass, Elko, Nevada",Wildfires,IRWIN,4500.0,acres,2026-07-25,-115.260002,40.896454
+EONET_21828,"Wildfire Bob Creek, Baker, Oregon",Wildfires,IRWIN,600.0,acres,2026-07-25,-116.8869,44.9956
+EONET_21850,"Wildfire PEARL HILL, Douglas, Washington",Wildfires,IRWIN,8491.0,acres,2026-07-25,-119.613157,47.983535
+EONET_21824,"Wildfire QUAIL SPRINGS, Lincoln, Nevada",Wildfires,IRWIN,4450.0,acres,2026-07-25,-115.71,37.4123
+EONET_21832,"Wildfire BRADEEN HILL, Stevens, Washington",Wildfires,IRWIN,2595.0,acres,2026-07-25,-118.114443,48.312618
+EONET_21855,"Incident Complex CINDER COMPLEX, Inyo, California",Wildfires,IRWIN,2784.0,acres,2026-07-25,-118.2569444,36.9983333
+EONET_21817,"Wildfire Coleman Creek, Harney, Oregon",Wildfires,IRWIN,34000.0,acres,2026-07-25,-118.303917,43.589733
+EONET_21816,"Wildfire PEER, Owyhee, Idaho",Wildfires,IRWIN,1324.0,acres,2026-07-25,-116.91625,42.5184
+EONET_21848,"Wildfire 4-May, Inyo, California",Wildfires,IRWIN,1318.0,acres,2026-07-25,-118.258,37.015833
+EONET_21854,"Wildfire 3-May, Inyo, California",Wildfires,IRWIN,744.0,acres,2026-07-25,-118.284,36.996167
+EONET_21839,"Wildfire Jackass Butte, Harney, Oregon",Wildfires,IRWIN,18539.0,acres,2026-07-24,-118.955667,43.045
+EONET_21862,"Wildfire Locust Grove, Benton, Washington",Wildfires,IRWIN,750.0,acres,2026-07-24,-119.1411111,46.1497222
+EONET_22098,"Wildfire Doublesprings, Custer, Idaho",Wildfires,IRWIN,600.0,acres,2026-07-24,-113.859033,44.325217
+EONET_21844,"Wildfire Second Flat, Harney, Oregon",Wildfires,IRWIN,76958.0,acres,2026-07-24,-119.439167,43.608667
+EONET_21823,"Wildfire Signal Peak, Yakima, Washington",Wildfires,IRWIN,3000.0,acres,2026-07-24,-120.732219,46.362281
+EONET_21836,"Wildfire HAT, Malheur, Oregon",Wildfires,IRWIN,42000.0,acres,2026-07-24,-118.1498,43.274667
+EONET_21970,"Wildfire Elder 1, Missoula, Montana",Wildfires,IRWIN,923.0,acres,2026-07-24,-114.320867,46.94
+EONET_22930,"Wildfire Three Links, Idaho, Idaho",Wildfires,IRWIN,510.0,acres,2026-07-24,-115.117667,46.149833
+EONET_21975,"Wildfire Silvertip, Flathead, Montana",Wildfires,IRWIN,4126.0,acres,2026-07-24,-113.2735,47.8355
+EONET_21864,"Wildfire 8 MILE, Wasco, Oregon",Wildfires,IRWIN,532.0,acres,2026-07-24,-121.245917,45.462631
+EONET_22102,"Wildfire MOUSE MEADOW, Nye, Nevada",Wildfires,IRWIN,37553.0,acres,2026-07-24,-116.157567,37.2667
+EONET_21843,"Wildfire 0611 GREEN MOUNTAIN, Crook, Oregon",Wildfires,IRWIN,2136.0,acres,2026-07-24,-120.691883,44.441967
+EONET_21822,"Wildfire Tartar, Washington, Idaho",Wildfires,IRWIN,10399.0,acres,2026-07-24,-117.093,44.541333
+EONET_21842,"Wildfire GRASSHOPPER, Wasco, Oregon",Wildfires,IRWIN,15000.0,acres,2026-07-23,-121.510133,45.252967
+EONET_21826,"Wildfire FOX, Baker, Oregon",Wildfires,IRWIN,26445.0,acres,2026-07-23,-117.212967,44.523917
+EONET_22441,"Wildfire HIGH LAVA, Skamania, Washington",Wildfires,IRWIN,878.0,acres,2026-07-23,-122.116167,45.8805
+EONET_21860,"Wildfire DUNCAN, Owyhee, Idaho",Wildfires,IRWIN,16362.0,acres,2026-07-23,-116.087768,42.579329
+EONET_21857,"Wildfire Beachcomb, Jefferson, Oregon",Wildfires,IRWIN,13648.0,acres,2026-07-23,-121.404444,44.695278
+EONET_21853,"Wildfire 0567 LITTLE BUCK, Wasco, Oregon",Wildfires,IRWIN,25772.0,acres,2026-07-23,-120.646917,45.0403
+EONET_21840,"Wildfire Bald Mountain, Harney, Oregon",Wildfires,IRWIN,25992.0,acres,2026-07-23,-118.474267,42.995608
+EONET_21841,"Wildfire Stubble, Harney, Oregon",Wildfires,IRWIN,15673.0,acres,2026-07-23,-118.92,43.18
+EONET_21845,"Wildfire Bench, Jefferson, Oregon",Wildfires,IRWIN,20180.0,acres,2026-07-23,-121.350222,44.631778
+EONET_21837,"Wildfire 0587 SHINGLE, Wheeler, Oregon",Wildfires,IRWIN,53976.0,acres,2026-07-23,-119.8976,44.468717
+EONET_21834,"Wildfire FIELDS, Merced, California",Wildfires,IRWIN,1280.0,acres,2026-07-23,-120.429683,37.528023
+EONET_21827,"Wildfire BIG GRASS, Malheur, Oregon",Wildfires,IRWIN,280000.0,acres,2026-07-23,-117.30335,42.6498
+EONET_21852,"Wildfire 0584 COTTONWOOD, Gilliam, Oregon",Wildfires,IRWIN,15234.0,acres,2026-07-23,-120.426363,45.453409
+EONET_21584,"Wildfire 0579 TEN MILE, Jefferson, Oregon",Wildfires,IRWIN,800.0,acres,2026-07-23,-121.014327,44.796442
+EONET_21576,"Wildfire RAILROAD, Grant, Washington",Wildfires,IRWIN,660.0,acres,2026-07-23,-119.939349,46.839052
+EONET_22130,"Wildfire RAILROAD, Grant, Washington",Wildfires,IRWIN,8216.0,acres,2026-07-23,-119.939349,46.839052
+EONET_21838,"Wildfire Crater, Harney, Oregon",Wildfires,IRWIN,745.0,acres,2026-07-23,-118.803383,43.11995
+EONET_21825,"Wildfire Castle, Douglas, Oregon",Wildfires,IRWIN,1400.0,acres,2026-07-23,-122.563283,43.114033
+EONET_21577,"Wildfire Gypsum Creek, King, Texas",Wildfires,IRWIN,530.0,acres,2026-07-22,-100.0410599,33.46780108
+EONET_21575,"Wildfire West Blue Crab, Cameron, Louisiana",Wildfires,IRWIN,1382.0,acres,2026-07-22,-93.42765,29.880643
+EONET_21587,"Incident Complex COW CAMP COMPLEX, Malheur, Oregon",Wildfires,IRWIN,8044.3,acres,2026-07-21,-117.561983,44.334159
+EONET_21586,"Wildfire 188, Malheur, Oregon",Wildfires,IRWIN,1500.0,acres,2026-07-21,-117.555283,44.352583
+EONET_21585,"Wildfire COW, Malheur, Oregon",Wildfires,IRWIN,5997.0,acres,2026-07-21,-117.521417,44.354133
+EONET_21578,"Wildfire Fuhr Gulch, Moffat, Colorado",Wildfires,IRWIN,1646.0,acres,2026-07-21,-107.747133,40.422217
+EONET_21596,"Wildfire 716 Complex 2, Treasure, Montana",Wildfires,IRWIN,623.0,acres,2026-07-21,-107.48896,46.28964
+EONET_21595,"Wildfire Keystone, Rio Blanco, Colorado",Wildfires,IRWIN,3024.0,acres,2026-07-21,-108.178133,40.220533
+EONET_21583,"Wildfire ROCK, Inyo, California",Wildfires,IRWIN,11141.0,acres,2026-07-20,-118.241189,36.916815
+EONET_21594,"Wildfire 518 SULLY, Gilliam, Oregon",Wildfires,IRWIN,640.0,acres,2026-07-18,-120.021548,45.745867
+EONET_21421,"Wildfire BROOK, Shasta, California",Wildfires,IRWIN,502.0,acres,2026-07-18,-122.197625,40.698456
+EONET_21404,"Wildfire Horse Island, Berkeley, South Carolina",Wildfires,IRWIN,550.0,acres,2026-07-18,-79.662533,33.188917
+EONET_22204,"Wildfire Cascade, Idaho, Idaho",Wildfires,IRWIN,2800.0,acres,2026-07-18,-115.1353,46.095633
+EONET_21402,"Wildfire Ohio, Blaine, Idaho",Wildfires,IRWIN,2000.0,acres,2026-07-18,-114.31795,43.588417
+EONET_21420,"Wildfire BISCAR, Lassen, California",Wildfires,IRWIN,12338.0,acres,2026-07-18,-120.303833,40.618167
+EONET_21416,"Wildfire 0512 BOX SPRINGS, Jefferson, Oregon",Wildfires,IRWIN,4000.0,acres,2026-07-17,-120.4985,44.635333
+EONET_21433,"Wildfire WALLACE WALKER, Franklin, Washington",Wildfires,IRWIN,798.0,acres,2026-07-17,-118.567968,46.576482
+EONET_21426,"Wildfire DEVIL&#039;S CANYON, Franklin, Washington",Wildfires,IRWIN,4747.0,acres,2026-07-17,-118.548791,46.600003
+EONET_21415,"Wildfire BERGER (50), Palm Beach, Florida",Wildfires,IRWIN,11200.0,acres,2026-07-17,-80.8444444,26.4466667
+EONET_22126,"Wildfire Mutual Aid Inc 20344, Asotin, Washington",Wildfires,IRWIN,2610.0,acres,2026-07-17,-117.32632,46.37621
+EONET_21410,"Incident Complex HAY CREEK COMPLEX, Gilliam, Oregon",Wildfires,IRWIN,92211.0,acres,2026-07-17,-120.435846,45.26602
+EONET_21579,"Wildfire Burnt Creek, Wallowa, Oregon",Wildfires,IRWIN,2530.0,acres,2026-07-17,-117.25321,45.76802
+EONET_21425,"Wildfire NEFF JONES, Franklin, Washington",Wildfires,IRWIN,7123.0,acres,2026-07-17,-118.65817,46.45851
+EONET_21427,"Wildfire Modrite, Ferry, Washington",Wildfires,IRWIN,5679.0,acres,2026-07-17,-118.312583,48.069
+EONET_21588,"Wildfire PTARMIGAN, Okanogan, Washington",Wildfires,IRWIN,1190.0,acres,2026-07-17,-120.6095,48.942
+EONET_21591,"Wildfire 0501 PAT&#039;S CABIN, Wheeler, Oregon",Wildfires,IRWIN,772.0,acres,2026-07-17,-120.33328,44.72533
+EONET_21412,"Wildfire POWDER RIVER, Baker, Oregon",Wildfires,IRWIN,18345.0,acres,2026-07-17,-117.277667,44.75525
+EONET_21590,"Wildfire 0502, Wheeler, Oregon",Wildfires,IRWIN,1816.0,acres,2026-07-17,-120.297013,44.829331
+EONET_21408,"Wildfire 0462, Sherman, Oregon",Wildfires,IRWIN,11581.0,acres,2026-07-17,-120.495333,45.184333
+EONET_21589,"Wildfire 0432, Wasco, Oregon",Wildfires,IRWIN,2183.0,acres,2026-07-16,-120.759188,45.000137
+EONET_21422,"Wildfire COLUMBIA COUNTY, Columbia, Washington",Wildfires,IRWIN,750.0,acres,2026-07-16,-118.103667,46.542667
+EONET_21580,"Wildfire Horse Ridge, Umatilla, Oregon",Wildfires,IRWIN,675.0,acres,2026-07-16,-118.345971,45.541808
+EONET_21974,"Wildfire Border 2, Whatcom, Washington",Wildfires,IRWIN,2500.0,acres,2026-07-16,-121.027683,48.9982
+EONET_21401,"Wildfire 0497 HENRY, Crook, Oregon",Wildfires,IRWIN,25000.0,acres,2026-07-16,-119.947717,44.121117
+EONET_21406,"Wildfire Hagen, Umatilla, Oregon",Wildfires,IRWIN,700.0,acres,2026-07-16,-118.269,45.707
+EONET_21400,"Wildfire 0500 COYOTE, Crook, Oregon",Wildfires,IRWIN,15000.0,acres,2026-07-16,-120.528667,44.1115
+EONET_21405,"Wildfire Egypt, Harney, Oregon",Wildfires,IRWIN,4685.0,acres,2026-07-16,-119.468417,43.727167
+EONET_21407,"Wildfire 0476 HOAG, Gilliam, Oregon",Wildfires,IRWIN,50403.0,acres,2026-07-16,-120.405117,45.562183
+EONET_21418,"Wildfire 0485 DEEP CANYON, Wasco, Oregon",Wildfires,IRWIN,8062.0,acres,2026-07-16,-120.836,44.8645
+EONET_21413,"Wildfire 0494 AKAWA BUTTE, Jefferson, Oregon",Wildfires,IRWIN,6856.0,acres,2026-07-16,-121.453167,44.472367
+EONET_21411,"Wildfire Bologna, Grant, Oregon",Wildfires,IRWIN,2600.0,acres,2026-07-16,-119.598,44.861167
+EONET_21432,"Wildfire Mile Marker 40- Broward (06), Broward, Florida",Wildfires,IRWIN,6750.0,acres,2026-07-16,-80.5405556,26.2566667
+EONET_21409,"Wildfire 0480 WILCOX, Sherman, Oregon",Wildfires,IRWIN,4112.0,acres,2026-07-16,-120.6097,45.113583
+EONET_21419,"Incident Complex ROWE CREEK COMPLEX, Wheeler, Oregon",Wildfires,IRWIN,126009.0,acres,2026-07-16,-120.316732,44.810126
+EONET_21581,"Wildfire Paradise, Wallowa, Oregon",Wildfires,IRWIN,590.0,acres,2026-07-16,-117.974282,45.998139
+EONET_21428,"Wildfire ROYAL LAKE, Adams, Washington",Wildfires,IRWIN,2037.0,acres,2026-07-16,-119.361131,46.863295
+EONET_21423,"Wildfire LYONS FERRY, Franklin, Washington",Wildfires,IRWIN,34166.0,acres,2026-07-16,-118.23915,46.6259
+EONET_21582,"Wildfire LITTLE GIANT, Chelan, Washington",Wildfires,IRWIN,777.0,acres,2026-07-16,-120.846617,48.016217
+EONET_21431,"Wildfire Kaiser Canyon, Okanogan, Washington",Wildfires,IRWIN,60226.0,acres,2026-07-16,-118.958638,48.116777
+EONET_21374,"Wildfire 0460 HOPKIN, Gilliam, Oregon",Wildfires,IRWIN,2500.0,acres,2026-07-16,-120.24295,45.336333
+EONET_21429,"Wildfire Turner, Boundary, Idaho",Wildfires,IRWIN,681.0,acres,2026-07-16,-116.38025,48.825083
+EONET_21417,"Wildfire 0446 CAMEL HUMP, Wheeler, Oregon",Wildfires,IRWIN,4480.0,acres,2026-07-16,-120.052,44.761667
+EONET_22615,"Wildfire THREE QUEENS, Kittitas, Washington",Wildfires,IRWIN,3305.0,acres,2026-07-16,-121.261333,47.414
+EONET_21375,"Wildfire 0445 CROSSWHITE, Wheeler, Oregon",Wildfires,IRWIN,1000.0,acres,2026-07-16,-120.199167,44.803333
+EONET_21376,"Wildfire 0450 COVE CREEK, Wheeler, Oregon",Wildfires,IRWIN,1000.0,acres,2026-07-16,-120.346403,44.942899
+EONET_21377,"Wildfire 0449 PORCUPINE RIDGE, Gilliam, Oregon",Wildfires,IRWIN,1000.0,acres,2026-07-15,-120.350257,45.18894
+EONET_21414,"Wildfire 0433 BREWER, Jefferson, Oregon",Wildfires,IRWIN,17873.0,acres,2026-07-15,-120.907094,44.588568
+EONET_21378,"Wildfire THORN, San Diego, California",Wildfires,IRWIN,1201.0,acres,2026-07-15,-116.332927,32.691104
+EONET_21395,"Wildfire Charger 2, Collier, Florida",Wildfires,IRWIN,974.0,acres,2026-07-15,-81.0615,25.973667
+EONET_21387,"Wildfire BUCKET SHOP (53)~, Hillsborough, Florida",Wildfires,IRWIN,553.0,acres,2026-07-15,-82.0833333,27.6688889
+EONET_21388,"Prescribed Fire RX Flowing 24, Clay, Minnesota",Wildfires,IRWIN,516.0,acres,2026-07-15,-96.44761667,47.01508333
+EONET_21386,"Wildfire Little Knife, Lake, Minnesota",Wildfires,IRWIN,6000.0,acres,2026-07-15,-91.104833,48.161067
+EONET_21389,"Prescribed Fire RX Chippewa Bottoms, Chippewa, Minnesota",Wildfires,IRWIN,700.0,acres,2026-07-13,-96.01615,45.13868333
+EONET_21390,"Prescribed Fire RX Leach Impact Area, Morrison, Minnesota",Wildfires,IRWIN,2094.0,acres,2026-07-13,-94.39675,46.27013333
+EONET_21380,"Wildfire P-L Gulch, Rio Blanco, Colorado",Wildfires,IRWIN,1500.0,acres,2026-07-13,-108.22355,39.87355
+EONET_21322,"Prescribed Fire RX Infantry Platoon Battle Course, Morrison, Minnesota",Wildfires,IRWIN,503.0,acres,2026-07-13,-94.39545,46.24695
+EONET_21323,"Prescribed Fire RX IPBC, Morrison, Minnesota",Wildfires,IRWIN,503.0,acres,2026-07-13,-94.40005,46.24651667
+EONET_21324,"Prescribed Fire RX Center Range South, Morrison, Minnesota",Wildfires,IRWIN,503.0,acres,2026-07-13,-94.44528333,46.16198333
+EONET_21320,"Wildfire 18 Mile, Elko, Nevada",Wildfires,IRWIN,1326.0,acres,2026-07-12,-114.267333,41.564667
+EONET_21318,"Wildfire Heavy Timber, Musselshell, Montana",Wildfires,IRWIN,500.0,acres,2026-07-12,-108.146,46.44166
+EONET_21328,"Wildfire Cow Canyon, Oneida, Idaho",Wildfires,IRWIN,2000.0,acres,2026-07-12,-112.947187,42.11216
+EONET_21332,"Wildfire ELEPHANT, Plumas, California",Wildfires,IRWIN,6436.0,acres,2026-07-11,-120.193167,39.710833
+EONET_21329,"Wildfire LOOMIS, Lassen, California",Wildfires,IRWIN,656.0,acres,2026-07-11,-121.154667,40.965833
+EONET_21336,"Wildfire NINE CANYON, Benton, Washington",Wildfires,IRWIN,600.0,acres,2026-07-11,-119.04432,46.122786
+EONET_21331,"Wildfire Stookey, Tooele, Utah",Wildfires,IRWIN,4000.0,acres,2026-07-10,-112.560267,40.1499
+EONET_21325,"Wildfire E Evans Creek Rd 18000, Jackson, Oregon",Wildfires,IRWIN,3152.0,acres,2026-07-10,-123.0018333,42.60395
+EONET_21333,"Wildfire SUMMIT, Los Angeles, California",Wildfires,IRWIN,2690.0,acres,2026-07-10,-117.68601,34.45499
+EONET_21436,"Wildfire Nutmeg, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,767.26,acres,2026-07-10,-150.25392,67.447423
+EONET_21327,"Wildfire B AND O, Okanogan, Washington",Wildfires,IRWIN,2815.0,acres,2026-07-09,-119.605515,48.352694
+EONET_21337,"Prescribed Fire RX Chippewa Prairie TNC, Chippewa, Minnesota",Wildfires,IRWIN,1030.0,acres,2026-07-09,-95.99093333,45.12691667
+EONET_21338,"Prescribed Fire RX Terpstra W413-20-01, Lac qui Parle, Minnesota",Wildfires,IRWIN,670.0,acres,2026-07-09,-96.01538333,45.10605
+EONET_21382,"Wildfire Wolfpack, St. Louis, Minnesota",Wildfires,IRWIN,2234.0,acres,2026-07-09,-92.282167,48.1855
+EONET_21339,"Prescribed Fire RX Center Range North, Morrison, Minnesota",Wildfires,IRWIN,924.0,acres,2026-07-09,-94.44471667,46.16963333
+EONET_21340,"Prescribed Fire RX Leach Impact Area, Morrison, Minnesota",Wildfires,IRWIN,2135.0,acres,2026-07-09,-94.39906667,46.2736
+EONET_21858,"Wildfire Elk, Hinsdale, Colorado",Wildfires,IRWIN,2317.0,acres,2026-07-09,-107.354823,38.124188
+EONET_21383,"Wildfire Sioux, St. Louis, Minnesota",Wildfires,IRWIN,7368.0,acres,2026-07-09,-92.223926,48.153119
+EONET_21233,"Wildfire Rose Hill Bay, Duplin, North Carolina",Wildfires,IRWIN,525.0,acres,2026-07-09,-78.0655556,34.805
+EONET_21235,"Prescribed Fire RX Agassiz W413-21-20, Lac qui Parle, Minnesota",Wildfires,IRWIN,935.0,acres,2026-07-09,-96.24231667,45.21431667
+EONET_21237,"Prescribed Fire RX Loen, Swift, Minnesota",Wildfires,IRWIN,580.0,acres,2026-07-09,-95.5,45.38
+EONET_21238,"Prescribed Fire RX Loen, Swift, Minnesota",Wildfires,IRWIN,580.0,acres,2026-07-09,-95.5,45.38
+EONET_21239,"Prescribed Fire RX Chippewa Prairie Unit 7 W413-20-28, Chippewa, Minnesota",Wildfires,IRWIN,914.0,acres,2026-07-09,-96.01343333,45.13898333
+EONET_21317,"Wildfire Hogatza, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,3535.97,acres,2026-07-08,-153.849167,66.664667
+EONET_21243,"Wildfire RYEGRASS COULEE, Kittitas, Washington",Wildfires,IRWIN,800.0,acres,2026-07-08,-120.0208,46.949083
+EONET_21231,"Wildfire Getaway Pens, Dickens, Texas",Wildfires,IRWIN,850.0,acres,2026-07-08,-100.6149183,33.44265
+EONET_21241,"Wildfire VAN, Mariposa, California",Wildfires,IRWIN,1107.0,acres,2026-07-08,-120.061317,37.327638
+EONET_21321,"Wildfire Anthony, Baker, Oregon",Wildfires,IRWIN,1643.0,acres,2026-07-08,-118.200333,44.991867
+EONET_21326,"Wildfire Olive Butte, Grant, Oregon",Wildfires,IRWIN,1642.0,acres,2026-07-08,-118.452867,44.745217
+EONET_21430,"Wildfire Upper Smith, Boundary, Idaho",Wildfires,IRWIN,748.0,acres,2026-07-08,-116.607783,48.9275
+EONET_21240,"Wildfire WHISKEY, Malheur, Oregon",Wildfires,IRWIN,999.3,acres,2026-07-08,-118.18178,43.35394
+EONET_21250,"Prescribed Fire RX Artichoke Lake, Swift, Minnesota",Wildfires,IRWIN,615.0,acres,2026-07-08,-96.0976,45.3332
+EONET_21251,"Prescribed Fire Meadow Creek WMA RX, Lyon, Minnesota",Wildfires,IRWIN,704.0,acres,2026-07-08,-95.71371667,44.3772
+EONET_21236,"Wildfire Salmon, Grant, Oregon",Wildfires,IRWIN,1000.0,acres,2026-07-08,-118.510204,44.717021
+EONET_21330,"Wildfire Thumb, St. Louis, Minnesota",Wildfires,IRWIN,500.0,acres,2026-07-07,-92.192167,48.287667
+EONET_21384,"Wildfire Bear Trap, St. Louis, Minnesota",Wildfires,IRWIN,13500.0,acres,2026-07-07,-91.924667,48.1845
+EONET_21381,"Wildfire Camp, Lake, Minnesota",Wildfires,IRWIN,2150.0,acres,2026-07-07,-91.782917,47.998967
+EONET_21245,"Wildfire 3-1 PIT, Lassen, California",Wildfires,IRWIN,1055.0,acres,2026-07-07,-121.2685,40.948833
+EONET_21242,"Wildfire Hoop, Harney, Oregon",Wildfires,IRWIN,960.0,acres,2026-07-07,-118.752133,42.637717
+EONET_21234,"Wildfire Avocado, Monroe, Florida",Wildfires,IRWIN,890.0,acres,2026-07-07,-80.928833,25.423833
+EONET_21248,"Wildfire Mustang, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,587.39,acres,2026-07-06,-154.11445,65.78555
+EONET_21021,"Wildfire RA 6 ADA CO CLAREMONT, Ada, Idaho",Wildfires,IRWIN,2000.0,acres,2026-07-06,-116.175933,43.6347
+EONET_21007,"Wildfire Dutch Flat, Humboldt, Nevada",Wildfires,IRWIN,15409.0,acres,2026-07-05,-117.614017,41.078633
+EONET_21010,"Wildfire NAVARRE COULEE, Chelan, Washington",Wildfires,IRWIN,845.0,acres,2026-07-05,-120.185178,47.773244
+EONET_21005,"Wildfire North Cayuse, Umatilla, Oregon",Wildfires,IRWIN,4663.0,acres,2026-07-04,-118.480617,45.683083
+EONET_21247,"Wildfire Ishtalitna, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,846.63,acres,2026-07-04,-151.57485,65.8547
+EONET_21000,"Wildfire CHELAN HILLS, Douglas, Washington",Wildfires,IRWIN,9735.0,acres,2026-07-04,-119.97655,47.799583
+EONET_20999,"Wildfire Siruk, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,589.57,acres,2026-07-01,-153.440667,66.690333
+EONET_21043,"Wildfire Black Bird Ranch (14), DeSoto, Florida",Wildfires,IRWIN,750.0,acres,2026-06-30,-81.6786111,27.1283333
+EONET_21067,"Wildfire ATLANTIC (06), Broward, Florida",Wildfires,IRWIN,5780.0,acres,2026-06-29,-80.3108333,26.2161111
+EONET_21046,"Wildfire Sheep Head, Huerfano, Colorado",Wildfires,IRWIN,1322.0,acres,2026-06-29,-105.136974,37.699535
+EONET_21084,"Wildfire HELLS BAY (48), Orange, Florida",Wildfires,IRWIN,540.0,acres,2026-06-29,-81.0536111,28.3491667
+EONET_21037,"Wildfire LAMBDIN, Walla Walla, Washington",Wildfires,IRWIN,12776.0,acres,2026-06-29,-118.872567,46.051583
+EONET_21019,"Wildfire Aspen Acres, Custer, Colorado",Wildfires,IRWIN,91982.0,acres,2026-06-29,-105.071268,38.019315
+EONET_21085,"Prescribed Fire RX Brewster 5525, Brewster, Texas",Wildfires,IRWIN,1300.0,acres,2026-06-29,-103.00642,30.35554
+EONET_21035,"Wildfire Willow, Lake, Colorado",Wildfires,IRWIN,4150.0,acres,2026-06-28,-106.44032,39.23358
+EONET_21051,"Wildfire CARLTON EAST, Sarasota, Florida",Wildfires,IRWIN,960.0,acres,2026-06-28,-82.3005556,27.15
+EONET_21015,"Wildfire Gold Mountain, Ouray, Colorado",Wildfires,IRWIN,29287.0,acres,2026-06-27,-107.682124,38.051567
+EONET_21001,"Wildfire Ferris, Montezuma, Colorado",Wildfires,IRWIN,51622.0,acres,2026-06-27,-108.67098,37.629229
+EONET_21017,"Wildfire Doe Canyon, Dolores, Colorado",Wildfires,IRWIN,1046.0,acres,2026-06-27,-108.688017,37.711183
+EONET_21061,"Wildfire Jones, Grand, Utah",Wildfires,IRWIN,1459.0,acres,2026-06-27,-109.073833,39.071217
+EONET_21027,"Wildfire Snyder, Grand, Utah",Wildfires,IRWIN,30202.0,acres,2026-06-27,-109.058533,39.007876
+EONET_21045,"Wildfire Cecil, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,723.9,acres,2026-06-26,-155.154033,64.73125
+EONET_21030,"Wildfire Wild Goose, Millard, Utah",Wildfires,IRWIN,12647.0,acres,2026-06-26,-112.172072,39.106205
+EONET_21033,"Wildfire Babylon, San Juan, Utah",Wildfires,IRWIN,96564.0,acres,2026-06-26,-109.808667,37.734333
+EONET_21029,"Wildfire Beehive, Rio Arriba, New Mexico",Wildfires,IRWIN,4728.0,acres,2026-06-26,-106.1649,36.737348
+EONET_21063,"Wildfire PETERSON, Klickitat, Washington",Wildfires,IRWIN,1000.0,acres,2026-06-26,-119.940022,45.945754
+EONET_21032,"Wildfire Dry Canyon, Lincoln, Nevada",Wildfires,IRWIN,1651.0,acres,2026-06-26,-114.1387,38.00545
+EONET_21026,"Wildfire Cherry, Juab, Utah",Wildfires,IRWIN,34252.0,acres,2026-06-26,-112.3595,39.852883
+EONET_21064,"Wildfire Michigan, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,1446.43,acres,2026-06-26,-151.22,67.320833
+EONET_21060,"Wildfire Allen, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,1691.14,acres,2026-06-26,-151.853617,67.529167
+EONET_21075,"Wildfire EHREN CUTOFF (51), Pasco, Florida",Wildfires,IRWIN,525.0,acres,2026-06-25,-82.4180556,28.3311111
+EONET_21069,"Wildfire Doorstep, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,1610.48,acres,2026-06-25,-150.391833,66.783333
+EONET_21036,"Wildfire Parsnip Peak, Lincoln, Nevada",Wildfires,IRWIN,2264.0,acres,2026-06-25,-114.293,38.083333
+EONET_21056,"Wildfire Kilusiktok, Nome, Alaska",Wildfires,IRWIN,2204.39,acres,2026-06-25,-159.667333,65.332833
+EONET_20822,Iceberg D33D,Sea and Lake Ice,NATICE,62.73,NM^2,2026-06-25,-55.51,-64.35
+EONET_20822,Iceberg D33D,Sea and Lake Ice,NATICE,90.0,NM^2,2026-07-23,-55.47,-63.78
+EONET_21068,"Wildfire Mud, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,1733.6,acres,2026-06-24,-157.622817,64.16785
+EONET_21101,"Wildfire AREA 2, Palm Beach, Florida",Wildfires,IRWIN,12000.0,acres,2026-06-24,-80.4602778,26.4113889
+EONET_21104,"Wildfire Lox Mutual Aid 06/24, Broward, Florida",Wildfires,IRWIN,800.0,acres,2026-06-24,-80.51182,26.310827
+EONET_21093,"Wildfire Platt Trap  (22), Glades, Florida",Wildfires,IRWIN,2513.0,acres,2026-06-24,-81.1741667,26.9361111
+EONET_21009,"Wildfire McCauley Springs, Sandoval, New Mexico",Wildfires,IRWIN,712.0,acres,2026-06-24,-106.626,35.827218
+EONET_21086,"Wildfire Orange Hammock (58), Sarasota, Florida",Wildfires,IRWIN,634.0,acres,2026-06-23,-82.085,27.0902778
+EONET_21016,"Wildfire Kinky Creek, Teton, Wyoming",Wildfires,IRWIN,880.0,acres,2026-06-23,-110.221765,43.428487
+EONET_21023,"Wildfire CANYON VENADO, Torrance, New Mexico",Wildfires,IRWIN,919.0,acres,2026-06-23,-105.585484,34.998876
+EONET_21025,"Wildfire Cottonwood, Beaver, Utah",Wildfires,IRWIN,95934.0,acres,2026-06-22,-112.550767,38.26975
+EONET_21028,"Wildfire Sacaton, Catron, New Mexico",Wildfires,IRWIN,9349.0,acres,2026-06-22,-108.6735,33.274833
+EONET_21092,"Wildfire Buffalo, Southeast Fairbanks, Alaska",Wildfires,IRWIN,744.64,acres,2026-06-21,-146.008333,63.9195
+EONET_21052,"Wildfire GARRED ROAD, Douglas, Washington",Wildfires,IRWIN,3369.0,acres,2026-06-21,-119.371668,47.6388
+EONET_21031,"Wildfire Shingle Creek, Idaho, Idaho",Wildfires,IRWIN,628.0,acres,2026-06-21,-116.397033,45.357167
+EONET_21047,"Wildfire White Tail, Gila, Arizona",Wildfires,IRWIN,857.0,acres,2026-06-21,-110.226,33.551833
+EONET_21244,"Wildfire Tatlanika, Denali, Alaska",Wildfires,IRWIN,675.27,acres,2026-06-21,-148.351667,64.2705
+EONET_21073,"Wildfire Kathul, Southeast Fairbanks, Alaska",Wildfires,IRWIN,2998.57,acres,2026-06-20,-142.40666,65.364395
+EONET_21090,"Wildfire Bonneville, Salt Lake, Utah",Wildfires,IRWIN,566.0,acres,2026-06-20,-111.820933,40.7739
+EONET_21004,"Wildfire Shaw, Southeast Fairbanks, Alaska",Wildfires,IRWIN,1482.83,acres,2026-06-20,-145.443333,64.37945
+EONET_21087,"Wildfire Hastings, Tooele, Utah",Wildfires,IRWIN,26355.0,acres,2026-06-20,-112.94745,40.7299
+EONET_21246,"Wildfire Hoholitna, Lake and Peninsula, Alaska",Wildfires,IRWIN,546.13,acres,2026-06-20,-155.23,60.9
+EONET_21115,"Wildfire Searcy 149, Searcy, Arkansas",Wildfires,IRWIN,1186.0,acres,2026-06-20,-92.774577,35.866437
+EONET_21116,"Wildfire Independence 163, Independence, Arkansas",Wildfires,IRWIN,660.0,acres,2026-06-20,-91.64646,35.88585
+EONET_21118,"Wildfire Fulton 225, Fulton, Arkansas",Wildfires,IRWIN,740.0,acres,2026-06-20,-91.9525,36.4568
+EONET_21049,"Wildfire Iron, Juab, Utah",Wildfires,IRWIN,41842.0,acres,2026-06-20,-112.19755,39.976283
+EONET_21119,"Wildfire Izard 201, Izard, Arkansas",Wildfires,IRWIN,590.0,acres,2026-06-19,-91.87339,35.90866
+EONET_21120,"Wildfire Searcy 189, Searcy, Arkansas",Wildfires,IRWIN,1186.0,acres,2026-06-19,-92.77191,35.87584
+EONET_21011,"Wildfire Pocket, Yavapai, Arizona",Wildfires,IRWIN,26697.0,acres,2026-06-19,-111.787421,34.967212
+EONET_21109,"Wildfire STAR, Kern, California",Wildfires,IRWIN,577.0,acres,2026-06-19,-118.7477778,35.2908333
+EONET_21089,"Wildfire Bear, Denali, Alaska",Wildfires,IRWIN,3409.15,acres,2026-06-19,-151.235,63.652
+EONET_21099,"Wildfire LOST, Kern, California",Wildfires,IRWIN,7834.0,acres,2026-06-18,-119.755,35.4186111
+EONET_21111,"Wildfire School Lands, Woods, Oklahoma",Wildfires,IRWIN,2410.7,acres,2026-06-17,-99.0227778,36.6627778
+EONET_21114,"Prescribed Fire OCF Penner Pond Rx 0618, Marion, Florida",Wildfires,IRWIN,746.0,acres,2026-06-17,-81.806,29.474
+EONET_21034,"Wildfire Kane Springs, Lincoln, Nevada",Wildfires,IRWIN,17042.0,acres,2026-06-17,-114.630351,37.284493
+EONET_21020,"Wildfire Grapevine, Lincoln, Nevada",Wildfires,IRWIN,26464.0,acres,2026-06-17,-114.304702,37.380844
+EONET_20558,"Median Wildfire, Gooding, Idaho",Wildfires,IRWIN,1000.0,acres,2026-06-17,-114.767567,42.805867
+EONET_20565,"TRAIL 13 (09) Wildfire, Citrus, Florida",Wildfires,IRWIN,687.0,acres,2026-06-16,-82.4186111,28.7994444
+EONET_21121,"Wildfire TRAIL 13 (09), Citrus, Florida",Wildfires,IRWIN,690.0,acres,2026-06-16,-82.4186111,28.7994444
+EONET_20560,"Kartar Wildfire, Okanogan, Washington",Wildfires,IRWIN,1700.0,acres,2026-06-16,-119.390027,48.250361
+EONET_21050,"Wildfire Kartar, Okanogan, Washington",Wildfires,IRWIN,11746.0,acres,2026-06-16,-119.390027,48.250361
+EONET_20562,"Omak Lake Road Wildfire, Okanogan, Washington",Wildfires,IRWIN,670.0,acres,2026-06-16,-119.410833,48.274722
+EONET_21123,"Wildfire Omak Lake Road, Okanogan, Washington",Wildfires,IRWIN,670.0,acres,2026-06-16,-119.410833,48.274722
+EONET_21024,"Wildfire WELL (13), Miami-Dade, Florida",Wildfires,IRWIN,2814.0,acres,2026-06-16,-80.4038889,25.8430556
+EONET_21080,"Wildfire Tucannon Mutual Aid, Columbia, Washington",Wildfires,IRWIN,8069.0,acres,2026-06-16,-117.949575,46.489365
+EONET_20559,"Old Emigrant Wildfire, Umatilla, Oregon",Wildfires,IRWIN,1000.0,acres,2026-06-16,-118.615417,45.616957
+EONET_20561,"Sawmill Wildfire, Iron, Utah",Wildfires,IRWIN,1100.0,acres,2026-06-16,-113.70575,38.09192
+EONET_20567,"QUARRY 2 (13) Wildfire, Miami-Dade, Florida",Wildfires,IRWIN,3500.0,acres,2026-06-15,-80.4233333,25.8116667
+EONET_21022,"Wildfire QUARRY 2 (13), Miami-Dade, Florida",Wildfires,IRWIN,19018.0,acres,2026-06-15,-80.4233333,25.8116667
+EONET_21018,"Wildfire Sycamore, Gila, Arizona",Wildfires,IRWIN,11939.0,acres,2026-06-15,-110.754833,33.624167
+EONET_20569,"Dellenbaugh Wildfire, Mohave, Arizona",Wildfires,IRWIN,724.0,acres,2026-06-15,-113.535333,36.075
+EONET_20570,"APQ Area 5A RX 0615 Prescribed Fire, Polk, Florida",Wildfires,IRWIN,556.0,acres,2026-06-15,-81.330714,27.720842
+EONET_21126,"Prescribed Fire APQ Area 5A RX 0615, Polk, Florida",Wildfires,IRWIN,556.0,acres,2026-06-15,-81.330714,27.720842
+EONET_20564,"SHORE Wildfire, Riverside, California",Wildfires,IRWIN,3085.0,acres,2026-06-15,-117.103582,33.976656
+EONET_21113,"Wildfire MATEO, San Diego, California",Wildfires,IRWIN,1377.0,acres,2026-06-15,-117.487667,33.462444
+EONET_20566,"Rock Canyon Wildfire, Coconino, Arizona",Wildfires,IRWIN,1165.0,acres,2026-06-15,-112.2032,36.9157
+EONET_21012,"Wildfire Rock Canyon, Coconino, Arizona",Wildfires,IRWIN,4823.0,acres,2026-06-15,-112.2032,36.9157
+EONET_20710,"Nevados del Chillan Volcano, Chile",Volcanoes,SIVolcano,,None,2026-06-15,-71.378,-36.868
+EONET_20520,"Green Gate (26) Wildfire, Hendry, Florida",Wildfires,IRWIN,535.0,acres,2026-06-14,-81.1661111,26.3666667
+EONET_20523,"MIDNIGHT FIRE (53) Wildfire, Polk, Florida",Wildfires,IRWIN,600.0,acres,2026-06-14,-81.9430556,27.7152778
+EONET_21129,"Wildfire MIDNIGHT FIRE (53), Polk, Florida",Wildfires,IRWIN,600.0,acres,2026-06-14,-81.9430556,27.7152778
+EONET_20516,"4170 Tule Rd Wildfire, Yakima, Washington",Wildfires,IRWIN,5000.0,acres,2026-06-14,-120.3144,46.27602
+EONET_20513,"Rookery Wildfire, Volusia, Florida",Wildfires,IRWIN,600.0,acres,2026-06-14,-81.426633,29.07815
+EONET_21042,"Wildfire Rookery, Volusia, Florida",Wildfires,IRWIN,4700.0,acres,2026-06-14,-81.426633,29.07815
+EONET_20571,"TWIN SISTERS Wildfire, Walla Walla, Washington",Wildfires,IRWIN,8262.0,acres,2026-06-14,-118.90997,46.05679
+EONET_21102,"Wildfire TWIN SISTERS, Walla Walla, Washington",Wildfires,IRWIN,8262.0,acres,2026-06-14,-118.90997,46.05679
+EONET_20517,"JUNIPER DUNES Wildfire, Franklin, Washington",Wildfires,IRWIN,1000.0,acres,2026-06-14,-118.896108,46.346137
+EONET_20519,"WYLY Wildfire, Kern, California",Wildfires,IRWIN,1075.0,acres,2026-06-13,-118.6341667,35.2638889
+EONET_21125,"Wildfire WYLY, Kern, California",Wildfires,IRWIN,1075.0,acres,2026-06-13,-118.6341667,35.2638889
+EONET_20518,"SNAKE RIVER Wildfire, Whitman, Washington",Wildfires,IRWIN,686.0,acres,2026-06-13,-117.19118,46.4322
+EONET_21117,"Wildfire SNAKE RIVER, Whitman, Washington",Wildfires,IRWIN,686.0,acres,2026-06-13,-117.19118,46.4322
+EONET_20522,"Kilolitna Wildfire, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,908.28,acres,2026-06-12,-151.805649,66.047957
+EONET_21112,"Wildfire Kilolitna, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,4525.98,acres,2026-06-12,-151.805649,66.047957
+EONET_20524,"Unit 16/20 Rx Prescribed Fire, Bibb, Alabama",Wildfires,IRWIN,534.0,acres,2026-06-12,-87.047567,33.062922
+EONET_21130,"Prescribed Fire Unit 16/20 Rx, Bibb, Alabama",Wildfires,IRWIN,534.0,acres,2026-06-12,-87.047567,33.062922
+EONET_21066,"Wildfire Canyon, Yukon-Koyukuk, Alaska",Wildfires,IRWIN,1026.05,acres,2026-06-11,-150.813113,65.449075
+EONET_20446,"Little Schloss RX Prescribed Fire, Shenandoah, Virginia",Wildfires,IRWIN,1560.0,acres,2026-06-10,-78.636,38.925944
+EONET_21132,"Prescribed Fire Little Schloss RX, Shenandoah, Virginia",Wildfires,IRWIN,1560.0,acres,2026-06-10,-78.636,38.925944
+EONET_20442,"South Fork Wildfire, Sioux, Nebraska",Wildfires,IRWIN,8989.0,acres,2026-06-09,-103.638333,42.659167
+EONET_21098,"Wildfire South Fork, Sioux, Nebraska",Wildfires,IRWIN,39696.0,acres,2026-06-09,-103.638333,42.659167
+EONET_20521,"Bear Wildfire, Catron, New Mexico",Wildfires,IRWIN,6920.0,acres,2026-06-09,-108.292667,34.0465
+EONET_21108,"Wildfire Bear, Catron, New Mexico",Wildfires,IRWIN,7769.0,acres,2026-06-09,-108.292667,34.0465
+EONET_20447,"APQ Area 11 Scrub RX 0608 Prescribed Fire, Highlands, Florida",Wildfires,IRWIN,2000.0,acres,2026-06-09,-81.2536,27.59925
+EONET_21133,"Prescribed Fire APQ Area 11 Scrub RX 0608, Highlands, Florida",Wildfires,IRWIN,2000.0,acres,2026-06-09,-81.2536,27.59925
+EONET_20444,"South Mountain Wildfire, Tooele, Utah",Wildfires,IRWIN,1863.0,acres,2026-06-09,-112.410167,40.460017
+EONET_20443,"PUTAH Wildfire, Yolo, California",Wildfires,IRWIN,860.0,acres,2026-06-08,-122.0754,38.5148
+EONET_20387,"Tower Wildfire, Millard, Utah",Wildfires,IRWIN,1287.0,acres,2026-06-07,-112.164042,39.205895
+EONET_21014,"Wildfire Tower, Millard, Utah",Wildfires,IRWIN,1369.0,acres,2026-06-07,-112.164042,39.205895
+EONET_20448,"LXR Lower Third RX 0609 Prescribed Fire, Palm Beach, Florida",Wildfires,IRWIN,7609.0,acres,2026-06-07,-80.42115,26.509333
+EONET_21135,"Prescribed Fire LXR Lower Third RX 0609, Palm Beach, Florida",Wildfires,IRWIN,7609.0,acres,2026-06-07,-80.42115,26.509333
+EONET_20388,"Raven Creek Wildfire, Weston, Wyoming",Wildfires,IRWIN,3789.0,acres,2026-06-06,-105.04695,44.084633
+EONET_21127,"Wildfire Raven Creek, Weston, Wyoming",Wildfires,IRWIN,3789.0,acres,2026-06-06,-105.04695,44.084633
+EONET_20389,"CHESTNUT Wildfire, Chelan, Washington",Wildfires,IRWIN,1508.0,acres,2026-06-06,-120.018153,47.793631
+EONET_20385,"WALTZ Wildfire, Mariposa, California",Wildfires,IRWIN,1644.0,acres,2026-06-05,-120.245512,37.378149
+EONET_20386,"Kopshesut Wildfire, Northwest Arctic, Alaska",Wildfires,IRWIN,1444.27,acres,2026-06-04,189.0,7.0
+EONET_20391,"MOXEE ORCHARD Wildfire, Yakima, Washington",Wildfires,IRWIN,5918.0,acres,2026-06-04,1.0,3.0
+EONET_21040,"Wildfire MOXEE ORCHARD, Yakima, Washington",Wildfires,IRWIN,5918.0,acres,2026-06-04,-120.077137,46.52368
+EONET_20441,"ROSE BAY CANAL Wildfire, Hyde, North Carolina",Wildfires,IRWIN,618.0,acres,2026-06-03,-76.34346667,35.482
+EONET_21062,"Wildfire ROSE BAY CANAL, Hyde, North Carolina",Wildfires,IRWIN,662.0,acres,2026-06-03,-76.34346667,35.482
+EONET_20287,"HAYSTACK BUTTE Wildfire, Klickitat, Washington",Wildfires,IRWIN,620.0,acres,2026-05-30,-120.930004,45.665397
+EONET_20286,"BRANTLEY 2 Wildfire, Eddy, New Mexico",Wildfires,IRWIN,712.0,acres,2026-05-30,-104.3555,32.611733
+EONET_20409,"Telica Volcano, Nicaragua",Volcanoes,SIVolcano,,None,2026-05-30,-86.84,12.606
+EONET_20392,"Ivao Group Volcano, Russia",Volcanoes,SIVolcano,,None,2026-05-29,149.6762,45.7593
+EONET_20290,"KALKASKA-RX 61150021 Fletcher Unit 2 Prescribed Fire, Kalkaska, Michigan",Wildfires,IRWIN,539.0,acres,2026-05-28,-84.92062679,44.51933255
+EONET_20395,"Titan Ridge Volcano, Papua New Guinea",Volcanoes,EO,,None,2026-05-28,147.78,-3.03
+EONET_20301,"Bradshaw Wildfire, Powder River, Montana",Wildfires,IRWIN,2689.0,acres,2026-05-26,-105.96236,45.0612
+EONET_20254,"Black Ridge Wildfire, Lincoln, Idaho",Wildfires,IRWIN,1500.0,acres,2026-05-25,-113.935667,43.050333
+EONET_20252,"0231 ZEN Wildfire, Wasco, Oregon",Wildfires,IRWIN,1500.0,acres,2026-05-25,-120.43789,44.85563
+EONET_20257,"Egberts Wildfire, Elko, Nevada",Wildfires,IRWIN,654.0,acres,2026-05-25,-115.0565,40.9655
+EONET_20250,"Summit Creek Wildfire, Cassia, Idaho",Wildfires,IRWIN,1273.0,acres,2026-05-25,-113.73075,42.17555
+EONET_20258,"Kinyon Springs Wildfire, Owyhee, Idaho",Wildfires,IRWIN,3000.0,acres,2026-05-25,-115.244683,42.734717
+EONET_20259,"MILE MARKER 44 FIRE - BROWARD Wildfire, Broward, Florida",Wildfires,IRWIN,1200.0,acres,2026-05-23,-80.7791667,26.0994444
+EONET_20253,"COUNTRY MEADOW Wildfire, Benton, Washington",Wildfires,IRWIN,2000.0,acres,2026-05-23,-119.33745,46.16526
+EONET_20263,"340 Wildfire, Wakulla, Florida",Wildfires,IRWIN,1500.0,acres,2026-05-23,-84.565664,30.053136
+EONET_20249,"Mile Marker 44 Wildfire, Broward, Florida",Wildfires,IRWIN,1200.0,acres,2026-05-23,-80.766667,26.15
+EONET_20260,"Quartz Wildfire, Pershing, Nevada",Wildfires,IRWIN,2448.0,acres,2026-05-23,-118.014333,40.709867
+EONET_20262,"Thousand Wildfire, Northwest Arctic, Alaska",Wildfires,IRWIN,600.0,acres,2026-05-23,-159.286667,66.435
+EONET_20256,"WaWa 2 Wildfire, Highlands, Florida",Wildfires,IRWIN,6275.0,acres,2026-05-23,-81.2598,27.644633
+EONET_20264,"Shell Wildfire, Lake, Florida",Wildfires,IRWIN,800.0,acres,2026-05-22,-81.507167,29.073833
+EONET_20261,"Trigg Wildfire, San Miguel, New Mexico",Wildfires,IRWIN,2000.0,acres,2026-05-21,-103.948693,35.53034
+EONET_20230,"DeSoto BB 8374 S RX Prescribed Fire, Harrison, Mississippi",Wildfires,IRWIN,1535.0,acres,2026-05-20,-89.035278,30.673333
+EONET_20229,"Chickasawhay CPT 451 452 RX Prescribed Fire, Greene, Mississippi",Wildfires,IRWIN,2129.0,acres,2026-05-20,-88.6597,31.4154
+EONET_20231,"CADDUGGEN Wildfire, Carteret, North Carolina",Wildfires,IRWIN,670.0,acres,2026-05-20,-76.385286,34.926008
+EONET_20236,"Rifle Range Rd Wildfire, Collier, Florida",Wildfires,IRWIN,650.0,acres,2026-05-19,-81.6369444,26.1155556
+EONET_20232,"Foothill Wildfire, Santa Barbara, California",Wildfires,IRWIN,904.0,acres,2026-05-19,-119.6036111,34.8297222
+EONET_20238,"MTZ/SDU/TUSIL Wildfire, San Diego, California",Wildfires,IRWIN,550.0,acres,2026-05-19,-116.362754,32.732894
+EONET_20234,"VERONA Wildfire, Riverside, California",Wildfires,IRWIN,600.0,acres,2026-05-19,-117.08441,33.76272
+EONET_20233,"BAIN Wildfire, Riverside, California",Wildfires,IRWIN,1379.0,acres,2026-05-19,-117.505889,33.975363
+EONET_20289,"Sunfish Rx Prescribed Fire, Cook, Minnesota",Wildfires,IRWIN,775.0,acres,2026-05-19,-90.152327,47.989121
+EONET_20241,"DeSoto BB 7310 S RX Prescribed Fire, Perry, Mississippi",Wildfires,IRWIN,2840.0,acres,2026-05-19,-88.857778,31.024444
+EONET_20240,"Chickasawhay CPT 366 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1772.0,acres,2026-05-19,-88.9338,31.4618
+EONET_20242,"RX WINN BU  24 Prescribed Fire, Winn, Louisiana",Wildfires,IRWIN,2610.0,acres,2026-05-19,-92.841389,32.056667
+EONET_20153,"Kress Wildfire, Swisher, Texas",Wildfires,IRWIN,1500.0,acres,2026-05-18,-101.7812159,34.38652018
+EONET_20157,"SANDY Wildfire, Ventura, California",Wildfires,IRWIN,1385.0,acres,2026-05-18,-118.743684,34.250088
+EONET_20159,"RIVER Wildfire, Kern, California",Wildfires,IRWIN,2535.0,acres,2026-05-18,-118.7891667,35.4458333
+EONET_20239,"Chickasawhay CPT 400 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1473.0,acres,2026-05-18,-88.8018,31.5193
+EONET_20172,"RX WINN BU 114 Prescribed Fire, Grant, Louisiana",Wildfires,IRWIN,1814.0,acres,2026-05-18,-92.483333,31.749722
+EONET_20152,"Stinky Wildfire, Potter, Texas",Wildfires,IRWIN,2570.0,acres,2026-05-17,-102.0169,35.225011
+EONET_20167,"Proffitt Lake Wildfire, Meade, Kansas",Wildfires,IRWIN,17968.0,acres,2026-05-17,-100.1141,37.2162
+EONET_20151,"Axtell Anceney Rd and Cottontail Rd Wildfire, Gallatin, Montana",Wildfires,IRWIN,1200.0,acres,2026-05-17,-111.283273,45.602087
+EONET_20194,"APQ Area 13 RX 0516 Prescribed Fire, Highlands, Florida",Wildfires,IRWIN,1329.19,acres,2026-05-17,-81.327217,27.621983
+EONET_20411,"Kikai Volcano, Japan",Volcanoes,SIVolcano,,None,2026-05-17,130.305,30.793
+EONET_20163,"Sharpe Wildfire, Cimarron, Oklahoma",Wildfires,IRWIN,28609.0,acres,2026-05-16,-102.6666667,36.8933333
+EONET_20161,"Flanders Wildfire, Crow Wing, Minnesota",Wildfires,IRWIN,1666.0,acres,2026-05-16,-94.081924,46.598218
+EONET_20183,"DeSoto BB 8366 2 RX Prescribed Fire, Harrison, Mississippi",Wildfires,IRWIN,1937.0,acres,2026-05-16,-88.995,30.671667
+EONET_20165,"Tex-OK Wildfire, Cimarron, Oklahoma",Wildfires,IRWIN,23884.0,acres,2026-05-16,-102.4322222,36.6363889
+EONET_20197,"Chickasawhay CPT 441 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,2185.0,acres,2026-05-16,-88.6589,31.4806
+EONET_20410,"Bezymianny Volcano, Russia",Volcanoes,SIVolcano,,None,2026-05-16,160.595,55.972
+EONET_20170,"Wolf Canyon OK Wildfire, Beaver, Oklahoma",Wildfires,IRWIN,6745.6,acres,2026-05-15,-100.6252778,36.9980556
+EONET_20169,"Cadilac Wildfire, Beaver, Oklahoma",Wildfires,IRWIN,1119.5,acres,2026-05-15,-100.5897222,36.94
+EONET_20164,"Ballard Wildfire, Cimarron, Oklahoma",Wildfires,IRWIN,18323.0,acres,2026-05-15,-102.3725,36.9572222
+EONET_20171,"Herman Ranch Wildfire, Clark, Kansas",Wildfires,IRWIN,35455.0,acres,2026-05-15,15.0,30.0
+EONET_20150,"Santa Rosa Island Wildfire, Santa Barbara, California",Wildfires,IRWIN,14600.0,acres,2026-05-15,-120.086061,33.917233
+EONET_20178,"Windmill Wildfire, Morton, Kansas",Wildfires,IRWIN,1500.0,acres,2026-05-15,-101.5922,37.219417
+EONET_20220,Iceberg B51,Sea and Lake Ice,NATICE,31.48,NM^2,2026-05-15,-130.63,-74.22
+EONET_20221,Iceberg D15D,Sea and Lake Ice,NATICE,27.17,NM^2,2026-05-15,79.31,-67.28
+EONET_20187,"Line Wildfire, Quay, New Mexico",Wildfires,IRWIN,30144.0,acres,2026-05-14,-103.1274,35.4584
+EONET_20166,"Hunggate Wildfire, Randall, Texas",Wildfires,IRWIN,34131.0,acres,2026-05-14,-101.9550667,34.94155
+EONET_20155,"51 Wildfire, Morton, Kansas",Wildfires,IRWIN,14173.0,acres,2026-05-14,-101.655228,37.18058
+EONET_20186,"Mimms Wildfire, Quay, New Mexico",Wildfires,IRWIN,7093.0,acres,2026-05-14,-103.934566,34.818397
+EONET_20098,"Eagle Lake Fire Wildfire, Hancock, Iowa",Wildfires,IRWIN,550.0,acres,2026-05-14,-93.72348843,43.11279415
+EONET_20204,"DeSoto BB 8366 RX Prescribed Fire, Harrison, Mississippi",Wildfires,IRWIN,900.0,acres,2026-05-14,-88.9959,30.673
+EONET_20206,"Chickasawhay CPT 439 441 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1286.0,acres,2026-05-14,-88.6767,31.4818
+EONET_20156,"SEVEN CABINS Wildfire, Lincoln, New Mexico",Wildfires,IRWIN,31860.0,acres,2026-05-14,14.0,200.0
+EONET_20095,"Ash Pole Wildfire, Dawes, Nebraska",Wildfires,IRWIN,700.0,acres,2026-05-14,-103.2415,42.626352
+EONET_20189,"Rochelle 2 Wildfire, Converse, Wyoming",Wildfires,IRWIN,1317.0,acres,2026-05-13,-105.2177,43.49225
+EONET_20094,"NEURALIA Wildfire, Kern, California",Wildfires,IRWIN,800.0,acres,2026-05-13,-117.98596,35.235788
+EONET_20177,"Jericho Creek Wildfire, Powell, Montana",Wildfires,IRWIN,1100.0,acres,2026-05-13,-112.340167,46.477333
+EONET_20096,"Wild Horse Wildfire, Millard, Utah",Wildfires,IRWIN,1100.0,acres,2026-05-13,-112.24211,39.46574
+EONET_20255,"NW SANDS BLOCK A RX Prescribed Fire, Bayfield, Wisconsin",Wildfires,IRWIN,924.0,acres,2026-05-13,-91.299747,46.617832
+EONET_20099,"RX WINN BU 113 Prescribed Fire, Grant, Louisiana",Wildfires,IRWIN,2234.0,acres,2026-05-13,-92.5188,31.746
+EONET_20205,"Stotz RX Prescribed Fire, Edmunds, South Dakota",Wildfires,IRWIN,655.0,acres,2026-05-12,-99.5704,45.3842
+EONET_20061,"rx-Young 1 Prescribed Fire, Jefferson, Wisconsin",Wildfires,IRWIN,802.3,acres,2026-05-11,-88.630401,42.8455985
+EONET_20062,"MAX ROAD (06) Wildfire, Broward, Florida",Wildfires,IRWIN,4800.0,acres,2026-05-11,-80.4538889,25.9602778
+EONET_20064,"Rx Upshur 3999 Prescribed Fire, Upshur, Texas",Wildfires,IRWIN,500.0,acres,2026-05-11,-95.04077,32.758815
+EONET_20101,"Peterson Road RX Prescribed Fire, Benzie, Michigan",Wildfires,IRWIN,513.0,acres,2026-05-11,-86.0925,44.72
+EONET_20063,"Rothi East RX Prescribed Fire, Big Stone, Minnesota",Wildfires,IRWIN,517.0,acres,2026-05-10,-96.27005,45.32005
+EONET_20066,"Lasso Loop RX Prescribed Fire, Benzie, Michigan",Wildfires,IRWIN,671.0,acres,2026-05-10,-86.091389,44.729167
+EONET_20069,"BRITE Wildfire, Kern, California",Wildfires,IRWIN,665.0,acres,2026-05-09,-119.4958333,35.3419444
+EONET_20237,"Jesson WPA RX Prescribed Fire, Spink, South Dakota",Wildfires,IRWIN,665.0,acres,2026-05-08,-98.658,44.774
+EONET_20413,"Langila Volcano, Papua New Guinea",Volcanoes,SIVolcano,,None,2026-05-08,148.42,-5.525
+EONET_20002,"PINE MOUNTAIN Wildfire, Deschutes, Oregon",Wildfires,IRWIN,1500.0,acres,2026-05-07,-120.917759,43.810294
+EONET_20065,"CANYON Wildfire, Kern, California",Wildfires,IRWIN,2278.0,acres,2026-05-07,-117.8589,35.50478
+EONET_20009,"rx-Lapham Good Oak 2026 Prescribed Fire, Waukesha, Wisconsin",Wildfires,IRWIN,638.0,acres,2026-05-06,-88.3992015,43.0403647
+EONET_20003,"SOUTH CANAL Wildfire, Lafayette, Florida",Wildfires,IRWIN,1600.0,acres,2026-05-05,-83.1752778,29.8519444
+EONET_20004,"LOCHLOOSA WEST Wildfire, Alachua, Florida",Wildfires,IRWIN,956.0,acres,2026-05-05,-82.1758333,29.5297222
+EONET_20012,"Hog Farm Wildfire, Woodward, Oklahoma",Wildfires,IRWIN,907.0,acres,2026-05-05,-99.0419444,36.2888889
+EONET_19972,"Black Rush Lake RX Prescribed Fire, Swift, Minnesota",Wildfires,IRWIN,669.0,acres,2026-05-04,-95.9166,45.3272
+EONET_19970,"32nd Avenue Wildfire, Rolette, North Dakota",Wildfires,IRWIN,581.7,acres,2026-05-04,-99.985,48.856667
+EONET_20248,"Chickasawhay CPT 363 RX Prescribed Fire, Jones, Mississippi",Wildfires,IRWIN,1071.0,acres,2026-05-04,-88.9858,31.5088
+EONET_19973,"TOWER Wildfire, Kern, California",Wildfires,IRWIN,2500.0,acres,2026-05-03,-118.8036111,35.3644444
+EONET_19971,"AFM - Hazen Wildfire, Maricopa, Arizona",Wildfires,IRWIN,980.0,acres,2026-05-02,-112.612123,33.345111
+EONET_19974,"Guide Wildfire, Oglala Lakota, South Dakota",Wildfires,IRWIN,1104.48,acres,2026-05-02,-102.905231,43.266956
+EONET_20184,"2026 JBER Prescribed RX Burn Prescribed Fire, Anchorage, Alaska",Wildfires,IRWIN,1918.0,acres,2026-05-01,-149.695544,61.255148
+EONET_19977,"rx-82 Prescribed Fire, Burnett, Wisconsin",Wildfires,IRWIN,655.1,acres,2026-05-01,-92.5961834,45.8940373
+EONET_20008,"Burbank B RX Prescribed Fire, Kandiyohi, Minnesota",Wildfires,IRWIN,665.0,acres,2026-05-01,-94.919444,45.3875
+EONET_20013,"Black Diamond 1B RX Prescribed Fire, Lewis and Clark, Montana",Wildfires,IRWIN,500.0,acres,2026-04-30,-112.51,46.984333
+EONET_19934,"Buzzard Feather Wildfire, Roosevelt, Montana",Wildfires,IRWIN,612.0,acres,2026-04-30,-105.55355,48.52908
+EONET_19978,"Downing RX Prescribed Fire, Mahnomen, Minnesota",Wildfires,IRWIN,505.0,acres,2026-04-30,-95.991,47.1572
+EONET_19941,"rx-Millville Oak Woodlands SNA South Prescribed Fire, Grant, Wisconsin",Wildfires,IRWIN,562.0,acres,2026-04-29,-90.929398,43.039137
+EONET_20265,"LaCreek NWR Pool RX Prescribed Fire, Bennett, South Dakota",Wildfires,IRWIN,3434.0,acres,2026-04-29,-101.533,43.142
+EONET_19976,"Ogden Bay RX Prescribed Fire, Weber, Utah",Wildfires,IRWIN,2050.0,acres,2026-04-29,-112.16423,41.204062
+EONET_19942,"Rx Parker 3877 Prescribed Fire, Parker, Texas",Wildfires,IRWIN,500.0,acres,2026-04-29,-98.04277778,32.85722222
+EONET_19940,"Sparks Wildfire, Quay, New Mexico",Wildfires,IRWIN,1500.0,acres,2026-04-28,-104.055975,34.846208
+EONET_19939,"SHADY GROVE Wildfire, Russell, Alabama",Wildfires,IRWIN,522.0,acres,2026-04-28,-85.3177778,32.2958333
+EONET_19937,"HWY 41 Wildfire, Miami-Dade, Florida",Wildfires,IRWIN,8500.0,acres,2026-04-27,-80.55105,25.7609
+EONET_20103,"Rincon de la Vieja Volcano, Costa Rica",Volcanoes,SIVolcano,,None,2026-04-27,-85.3364,10.8314
+EONET_20100,"Quivira RX Prescribed Fire, Stafford, Kansas",Wildfires,IRWIN,4600.0,acres,2026-04-26,-98.49615,38.12723
+EONET_19913,"Tucker Wildfire, Hooker, Nebraska",Wildfires,IRWIN,1100.0,acres,2026-04-26,-101.2498,41.8008
+EONET_19914,"Tyndall 469 &amp; 143 RX Prescribed Fire, Mason, Michigan",Wildfires,IRWIN,611.0,acres,2026-04-26,-86.048555,44.11771
+EONET_20102,"Masaya Volcano, Nicaragua",Volcanoes,SIVolcano,,None,2026-04-26,-86.1688,11.9844
+EONET_19916,"Yellow Bank East RX Prescribed Fire, Lac qui Parle, Minnesota",Wildfires,IRWIN,1303.0,acres,2026-04-25,-96.339308,45.226197
+EONET_20188,"YTA Stuart Creek Rx Prescribed Fire, Fairbanks North Star, Alaska",Wildfires,IRWIN,5300.0,acres,2026-04-24,-146.6044,64.70676
+EONET_20203,"FWA Small Arms Complex Rx Prescribed Fire, Southeast Fairbanks, Alaska",Wildfires,IRWIN,3066.0,acres,2026-04-24,-146.284999,64.002424
+EONET_20068,"DTAW Oklahoma Rx Prescribed Fire, Southeast Fairbanks, Alaska",Wildfires,IRWIN,20000.0,acres,2026-04-24,-146.3023,64.00716
+EONET_20067,"DTAE Jarvis Rx Prescribed Fire, Southeast Fairbanks, Alaska",Wildfires,IRWIN,622.0,acres,2026-04-24,-145.6726,63.98684
+EONET_20010,"DTAE Bolio Rx Prescribed Fire, Southeast Fairbanks, Alaska",Wildfires,IRWIN,1805.0,acres,2026-04-24,-145.9018,63.86224
+EONET_19910,"Poitrey Canyon Wildfire, Las Animas, Colorado",Wildfires,IRWIN,2113.0,acres,2026-04-24,-103.6385,37.317111
+EONET_19917,"Thomas Ranch Fire Wildfire, Sully, South Dakota",Wildfires,IRWIN,1800.0,acres,2026-04-24,-99.7361111,44.65
+EONET_19912,"rx-Kimberly Clark NW Prescribed Fire, Price, Wisconsin",Wildfires,IRWIN,580.6,acres,2026-04-24,-90.6275479,45.7851589
+EONET_19919,"RX Blanchard 1 Prescribed Fire, Stone, Arkansas",Wildfires,IRWIN,726.0,acres,2026-04-24,-92.19055,35.966217
+EONET_19840,"rx-66 Prescribed Fire, Burnett, Wisconsin",Wildfires,IRWIN,1490.3,acres,2026-04-23,-92.6535178,45.8508587
+EONET_20011,"Lemon 2 Wildfire, Benson, North Dakota",Wildfires,IRWIN,860.0,acres,2026-04-23,-99.0475,47.988889
+EONET_19839,"Bauman Wildfire, Jackson, South Dakota",Wildfires,IRWIN,1000.0,acres,2026-04-23,-101.3950833,43.631
+EONET_19832,"Baldwin Fuels 6 RX Prescribed Fire, Lake, Michigan",Wildfires,IRWIN,658.0,acres,2026-04-23,-85.896883,43.88275
+EONET_19911,"FB 17 Wildfire, Todd, South Dakota",Wildfires,IRWIN,900.0,acres,2026-04-23,-101.03325,43.18306
+EONET_19843,"Peterson Wildfire, Holt, Nebraska",Wildfires,IRWIN,1000.0,acres,2026-04-23,-99.04273,42.12483
+EONET_19844,"Andrews Wildfire, Cherry, Nebraska",Wildfires,IRWIN,2500.0,acres,2026-04-22,-101.004,42.763583
+EONET_19841,"Hammer Wildfire, El Paso, Colorado",Wildfires,IRWIN,4900.0,acres,2026-04-22,-104.61,38.67
+EONET_19838,"Taber Rec Wildfire, Bon Homme, South Dakota",Wildfires,IRWIN,4000.0,acres,2026-04-22,-97.647004,42.862657
+EONET_19834,"Pressey Wildfire, Cherry, Nebraska",Wildfires,IRWIN,5000.0,acres,2026-04-22,-101.029476,42.246685
+EONET_19845,"Lone Pine Wildfire, Becker, Minnesota",Wildfires,IRWIN,1500.0,acres,2026-04-22,-95.912189,47.020535
+EONET_19850,"Wells Rd Unit 1 RX Prescribed Fire, Iosco, Michigan",Wildfires,IRWIN,537.0,acres,2026-04-22,-83.483333,44.425
+EONET_19835,"COW CREEK Wildfire, Levy, Florida",Wildfires,IRWIN,2000.0,acres,2026-04-21,-82.6311111,29.2822222
+EONET_19854,"rx-73 Prescribed Fire, Burnett, Wisconsin",Wildfires,IRWIN,557.3,acres,2026-04-21,-92.645347,45.8694852
+EONET_19836,"MM-45- Broward (06) Wildfire, Broward, Florida",Wildfires,IRWIN,9600.0,acres,2026-04-21,-80.5,26.3002778
+EONET_19908,"Hummingbird Wildfire, Catron, New Mexico",Wildfires,IRWIN,3264.0,acres,2026-04-21,-108.62195,33.36595
+EONET_19831,"Hwy 82 Wildfire, Brantley, Georgia",Wildfires,IRWIN,5531.0,acres,2026-04-21,-81.8438889,31.2222222
+EONET_20005,"Cedar Cabin - RX Prescribed Fire, Butte, Idaho",Wildfires,IRWIN,1255.0,acres,2026-04-21,-113.262817,43.8285
+EONET_19846,"DeSoto BB 9370 C507 508 509 RX Prescribed Fire, Jackson, Mississippi",Wildfires,IRWIN,2564.0,acres,2026-04-21,-88.86195,30.698133
+EONET_19852,"RX CALE BU 44-367 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,1701.0,acres,2026-04-21,-92.615933,31.132467
+EONET_19833,"East Side Wildfire, Carbon, Montana",Wildfires,IRWIN,1241.0,acres,2026-04-20,-109.3142,45.092167
+EONET_19849,"Hansen WPA RX Prescribed Fire, Clay, Nebraska",Wildfires,IRWIN,642.0,acres,2026-04-20,-97.862,40.452
+EONET_19858,"Krause RX Prescribed Fire, Fillmore, Nebraska",Wildfires,IRWIN,535.0,acres,2026-04-20,-97.792,40.467
+EONET_19851,"Burn Unit 17 RX Prescribed Fire, Sherburne, Minnesota",Wildfires,IRWIN,881.0,acres,2026-04-20,-93.683986,45.525011
+EONET_19853,"Peacock 545 and 159 RX Prescribed Fire, Lake, Michigan",Wildfires,IRWIN,704.0,acres,2026-04-20,-85.829167,44.150617
+EONET_19792,"Crews Rd (10) Wildfire, Clay, Florida",Wildfires,IRWIN,1700.0,acres,2026-04-20,-81.6333333,29.8861111
+EONET_19797,"RAILROAD COMPLEX Wildfire, Putnam, Florida",Wildfires,IRWIN,700.0,acres,2026-04-19,-81.6330556,29.7855556
+EONET_19799,"RAILROAD COMPLEX Wildfire, Putnam, Florida",Wildfires,IRWIN,700.0,acres,2026-04-19,-81.6327778,29.7855556
+EONET_19857,"River Road 16 RX Prescribed Fire, Iosco, Michigan",Wildfires,IRWIN,613.0,acres,2026-04-19,-83.591667,44.416667
+EONET_19856,"Barren Plains Units 1 &amp; 3 RX Prescribed Fire, Lake, Michigan",Wildfires,IRWIN,522.0,acres,2026-04-19,-85.80305,43.849417
+EONET_19793,"Pineland Rd Wildfire, Clinch, Georgia",Wildfires,IRWIN,4000.0,acres,2026-04-19,-82.7680556,30.7563889
+EONET_19801,"rx-45_041526 Prescribed Fire, Burnett, Wisconsin",Wildfires,IRWIN,675.6,acres,2026-04-19,-92.6494912,45.8375735
+EONET_19796,"Conner-Nelson Rd (45) Wildfire, Nassau, Florida",Wildfires,IRWIN,500.0,acres,2026-04-18,-81.9855556,30.6886111
+EONET_19837,"RX D4 Piquett Creek Prescribed Fire, Ravalli, Montana",Wildfires,IRWIN,535.0,acres,2026-04-17,-114.202833,45.848167
+EONET_19795,"Holm RX Prescribed Fire, Blaine, Montana",Wildfires,IRWIN,705.0,acres,2026-04-17,-109.41723,48.81675
+EONET_19805,"Rx Cherokee 3533 Prescribed Fire, Cherokee, Texas",Wildfires,IRWIN,1300.0,acres,2026-04-17,-95.10404,31.56589
+EONET_19806,"RX Trinity 3522 Prescribed Fire, Trinity, Texas",Wildfires,IRWIN,500.0,acres,2026-04-17,-95.2677,31.0137
+EONET_19802,"LO GAP Wildfire, Van Buren, Arkansas",Wildfires,IRWIN,760.0,acres,2026-04-17,-92.62707719,35.5865604
+EONET_19800,"Old Orangeburg Wildfire, Hampton, South Carolina",Wildfires,IRWIN,518.39,acres,2026-04-17,-81.2741667,32.7258333
+EONET_19807,"RX CALV BU 255-257 Prescribed Fire, Vernon, Louisiana",Wildfires,IRWIN,1847.0,acres,2026-04-16,-93.157417,31.062467
+EONET_19804,"Burn Unit 20 RX Prescribed Fire, Sherburne, Minnesota",Wildfires,IRWIN,1100.0,acres,2026-04-16,-93.708514,45.503583
+EONET_19714,"Dismal Swamp RX Prescribed Fire, Big Stone, Minnesota",Wildfires,IRWIN,652.0,acres,2026-04-15,-96.271767,45.46325
+EONET_19717,"Homochitto BB 49 East RX Prescribed Fire, Franklin, Mississippi",Wildfires,IRWIN,655.0,acres,2026-04-15,-91.013,31.419
+EONET_19715,"ENCINO 2 Wildfire, Torrance, New Mexico",Wildfires,IRWIN,566.0,acres,2026-04-14,-105.416063,34.643232
+EONET_19718,"Woodbury Wildfire, Marion, South Carolina",Wildfires,IRWIN,1750.0,acres,2026-04-14,-79.2833333,33.7498333
+EONET_19725,"Homochitto BB 49 West RX Prescribed Fire, Franklin, Mississippi",Wildfires,IRWIN,842.0,acres,2026-04-14,-91.013,31.419
+EONET_19724,"ANF Boykin Springs C-88/89 RX Prescribed Fire, Jasper, Texas",Wildfires,IRWIN,1925.0,acres,2026-04-14,-94.2842,31.042883
+EONET_19726,"Chickasawhay CPT 354 RX Prescribed Fire, Jones, Mississippi",Wildfires,IRWIN,1025.0,acres,2026-04-14,-88.9888,31.5603
+EONET_19558,"NEWMAN DR Wildfire, Collier, Florida",Wildfires,IRWIN,1733.0,acres,2026-04-13,-81.6330556,26.1502778
+EONET_19721,"PDT South-FFR RX Prescribed Fire, Grant, Minnesota",Wildfires,IRWIN,502.0,acres,2026-04-13,-95.8944,46.012
+EONET_19719,"Ciba Road Wildfire, Washington, Alabama",Wildfires,IRWIN,807.0,acres,2026-04-13,-88.0188889,31.2669444
+EONET_19935,"Old House Branch Wildfire, Mingo, West Virginia",Wildfires,IRWIN,1000.0,acres,2026-04-13,-81.941859,37.639725
+EONET_19909,"DeSoto BB 9365 C605 C606 RX Prescribed Fire, Stone, Mississippi",Wildfires,IRWIN,1028.0,acres,2026-04-13,-89.260833,30.712778
+EONET_19560,"APQ CPT 10 Rx 0413 Prescribed Fire, Highlands, Florida",Wildfires,IRWIN,1197.0,acres,2026-04-13,-81.158752,27.630425
+EONET_19563,"rx-Young 1 Prescribed Fire, Jefferson, Wisconsin",Wildfires,IRWIN,802.3,acres,2026-04-13,-88.630401,42.8455985
+EONET_19720,"RAFEY Wildfire, Mobile, Alabama",Wildfires,IRWIN,1700.0,acres,2026-04-12,-88.2997222,31.0927778
+EONET_19555,"Schwachheim Wildfire, Las Animas, Colorado",Wildfires,IRWIN,644.0,acres,2026-04-12,-104.3737,37.011
+EONET_19565,"Smoke Show Wildfire, Perry, Mississippi",Wildfires,IRWIN,500.0,acres,2026-04-12,-89.117047,31.092419
+EONET_19566,"Slate Branch Wildfire, Mingo, West Virginia",Wildfires,IRWIN,500.0,acres,2026-04-12,-82.163933,37.704877
+EONET_19557,"STE - Alum Wildfire, McCreary, Kentucky",Wildfires,IRWIN,650.0,acres,2026-04-12,-84.53148,36.75897
+EONET_19571,"HWY 351- DIXIE Wildfire, Dixie, Florida",Wildfires,IRWIN,700.0,acres,2026-04-11,-83.2108333,29.5366667
+EONET_19561,"79 Wildfire, Custer, South Dakota",Wildfires,IRWIN,5408.0,acres,2026-04-11,-103.249124,43.687519
+EONET_19564,"ANF Bullet Creek C-27 RX Prescribed Fire, San Augustine, Texas",Wildfires,IRWIN,1100.0,acres,2026-04-11,-94.302133,31.276467
+EONET_19573,"APQ CPT 11 Rx 0411 Prescribed Fire, Highlands, Florida",Wildfires,IRWIN,4920.0,acres,2026-04-11,-81.259689,27.572409
+EONET_19569,"Smooth Eddy Wildfire, Hansford, Texas",Wildfires,IRWIN,552.1,acres,2026-04-10,-101.5497222,36.2416667
+EONET_19570,"Mary 15 Wildfire, Texas, Oklahoma",Wildfires,IRWIN,899.3,acres,2026-04-10,-101.7577778,36.8186111
+EONET_19568,"Lightning Roll Wildfire, Beaver, Oklahoma",Wildfires,IRWIN,2412.0,acres,2026-04-10,-100.7680556,36.7338889
+EONET_19583,"Chickasawhay CPT 438 441 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,985.0,acres,2026-04-10,-88.6813,31.5038
+EONET_19577,"Burn Unit 16 RX Prescribed Fire, Sherburne, Minnesota",Wildfires,IRWIN,1531.0,acres,2026-04-10,-93.706253,45.525781
+EONET_19581,"Bienville CPT 43 44 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,888.0,acres,2026-04-10,-89.5273,32.3809
+EONET_19584,"RX Middle Northfork 4/7 Prescribed Fire, Garland, Arkansas",Wildfires,IRWIN,1241.0,acres,2026-04-10,-93.266667,34.716667
+EONET_19405,"rx-Northern Scupp EWO Prescribed Fire, Waukesha, Wisconsin",Wildfires,IRWIN,1375.5,acres,2026-04-09,-88.483243,42.9227232
+EONET_19412,"HARRISON Wildfire, Osage, Oklahoma",Wildfires,IRWIN,4934.0,acres,2026-04-09,-96.849207,36.568752
+EONET_19414,"JOY Wildfire, Osage, Oklahoma",Wildfires,IRWIN,5591.0,acres,2026-04-09,-96.232358,36.471122
+EONET_19585,"DeSoto BB 8301 C-214 RX Prescribed Fire, Perry, Mississippi",Wildfires,IRWIN,1050.0,acres,2026-04-09,-88.866111,30.974167
+EONET_19855,"Cameron Creek Unit 1 RX Prescribed Fire, Fergus, Montana",Wildfires,IRWIN,1116.0,acres,2026-04-09,-109.100917,46.751617
+EONET_19579,"Bienville CPT 44 45 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,1072.0,acres,2026-04-09,-89.5408,32.3711
+EONET_19415,"Rx Cherokee 3464 Prescribed Fire, Cherokee, Texas",Wildfires,IRWIN,500.0,acres,2026-04-09,-95.13378,31.56518
+EONET_19416,"Rosindale Road Wildfire, Bladen, North Carolina",Wildfires,IRWIN,762.0,acres,2026-04-09,-78.5313889,34.435
+EONET_19586,"RX BO/MAG Flat Top 1 Prescribed Fire, Logan, Arkansas",Wildfires,IRWIN,785.0,acres,2026-04-09,-93.666974,35.243252
+EONET_19406,"RX Blanchard 2 Prescribed Fire, Stone, Arkansas",Wildfires,IRWIN,1215.0,acres,2026-04-09,-92.167783,35.95415
+EONET_19418,"HUGHEY Wildfire, Osage, Oklahoma",Wildfires,IRWIN,1391.0,acres,2026-04-09,-96.059996,36.695248
+EONET_19403,"Chickasawhay CPT 378 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,582.0,acres,2026-04-09,-88.8983,31.5102
+EONET_19588,"RX PHILLIPS ORCHARD Prescribed Fire, Garland, Arkansas",Wildfires,IRWIN,2779.0,acres,2026-04-09,-93.187444,34.664083
+EONET_19590,"RX PCS South Waldron Ridge 1&amp;2 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1082.0,acres,2026-04-09,-93.970228,34.869867
+EONET_19580,"Homochitto BB 59 RX Prescribed Fire, Franklin, Mississippi",Wildfires,IRWIN,1442.0,acres,2026-04-09,-90.966,31.401
+EONET_19404,"RX CALE BU 363 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,765.0,acres,2026-04-09,-92.634817,31.142233
+EONET_19410,"Compartment 180 RX Prescribed Fire, Greene, Georgia",Wildfires,IRWIN,878.0,acres,2026-04-09,-83.27194,33.655288
+EONET_19419,"HC 1 Wildfire, San Miguel, New Mexico",Wildfires,IRWIN,1415.0,acres,2026-04-08,-104.67037,35.68405
+EONET_19424,"MA Mainline Non-Statistical/Other, Polk, Texas",Wildfires,IRWIN,500.0,acres,2026-04-08,-94.638858,30.492511
+EONET_19420,"SUNNY Wildfire, Osage, Oklahoma",Wildfires,IRWIN,1259.0,acres,2026-04-08,-96.225036,36.779277
+EONET_19438,"Tige - West Celina RX Prescribed Fire, Perry, Indiana",Wildfires,IRWIN,1279.0,acres,2026-04-08,-86.6266,38.2051
+EONET_19426,"RX BO/MAG Chickalah Mtn Prescribed Fire, Yell, Arkansas",Wildfires,IRWIN,810.0,acres,2026-04-08,-93.426325,35.1749
+EONET_19427,"DeSoto BB 7310 C-7 RX Prescribed Fire, Perry, Mississippi",Wildfires,IRWIN,1360.0,acres,2026-04-08,-88.859583,31.05635
+EONET_19429,"Bienville CPT 5 7 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,1860.0,acres,2026-04-08,-89.6524,32.5163
+EONET_19938,"RX POORMAN Prescribed Fire, Boise, Idaho",Wildfires,IRWIN,700.0,acres,2026-04-08,-115.89314,44.07671
+EONET_19434,"Holly Springs IU 14-1 RX Prescribed Fire, Tippah, Mississippi",Wildfires,IRWIN,933.0,acres,2026-04-08,-89.0287,34.8459
+EONET_19437,"Homochitto BB51 Sub2 RX Prescribed Fire, Franklin, Mississippi",Wildfires,IRWIN,985.0,acres,2026-04-08,-90.984,31.402
+EONET_19421,"SNF Stark Tract RX Prescribed Fire, Newton, Texas",Wildfires,IRWIN,3645.0,acres,2026-04-08,-93.626833,31.174617
+EONET_19436,"SHNF C-26/C-27/C-28 RX Prescribed Fire, Montgomery, Texas",Wildfires,IRWIN,2802.0,acres,2026-04-08,-95.652333,30.529633
+EONET_19435,"SHNF C-51 RX Prescribed Fire, Walker, Texas",Wildfires,IRWIN,783.0,acres,2026-04-08,-95.569167,30.536367
+EONET_19430,"RX Key Mountain East Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1602.0,acres,2026-04-08,-94.096898,34.761897
+EONET_19433,"RX Spud Rock Prescribed Fire, Franklin, Arkansas",Wildfires,IRWIN,1359.0,acres,2026-04-08,-93.9,35.734
+EONET_19423,"RX Fourche Valley Unit 1 and 2 Prescribed Fire, Yell, Arkansas",Wildfires,IRWIN,3441.0,acres,2026-04-08,-93.666667,34.933333
+EONET_19431,"RX County Liine Prescribed Fire, Newton, Arkansas",Wildfires,IRWIN,1747.0,acres,2026-04-08,-93.523297,35.845119
+EONET_19428,"School House B RX Prescribed Fire, Clay, Alabama",Wildfires,IRWIN,545.0,acres,2026-04-07,-86.091944,33.155833
+EONET_19918,"Porters Mill RX Prescribed Fire, Bath, Virginia",Wildfires,IRWIN,1195.0,acres,2026-04-07,-79.790533,37.9668
+EONET_19409,"Compartment 156 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1178.0,acres,2026-04-07,-83.376383,33.407033
+EONET_19422,"RX D2 Hog Sapphire Prescribed Fire, Ravalli, Montana",Wildfires,IRWIN,800.0,acres,2026-04-07,-113.877617,46.164317
+EONET_19448,"Homochitto BB 6 South RX Prescribed Fire, Lincoln, Mississippi",Wildfires,IRWIN,808.0,acres,2026-04-07,-90.73,31.635
+EONET_19449,"Bienville CPT 41 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,1296.0,acres,2026-04-07,-89.5682,32.4037
+EONET_19450,"Bienville CPT 31 32 cont  RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,778.0,acres,2026-04-07,-89.6599,32.4098
+EONET_19444,"Holly Springs IU 26-2 RX Prescribed Fire, Benton, Mississippi",Wildfires,IRWIN,518.0,acres,2026-04-07,-89.2329,34.7893
+EONET_19446,"RX Bald Knob Prescribed Fire, Crawford, Arkansas",Wildfires,IRWIN,1321.0,acres,2026-04-07,-94.3093,35.6695
+EONET_19447,"RX BO/MAG Carter Mtn Prescribed Fire, Logan, Arkansas",Wildfires,IRWIN,2016.0,acres,2026-04-07,-93.395096,35.218256
+EONET_19458,"MULL Wildfire, Osage, Oklahoma",Wildfires,IRWIN,550.0,acres,2026-04-07,-96.362972,36.539489
+EONET_19443,"RX PCS East Horseshoe 2 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,4456.0,acres,2026-04-07,-94.254627,34.783517
+EONET_19452,"SHNF C-14/C-15 RX Prescribed Fire, Montgomery, Texas",Wildfires,IRWIN,1585.0,acres,2026-04-07,-95.728667,30.52045
+EONET_19445,"RX FORKS 5 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,2294.0,acres,2026-04-07,-93.738056,34.525556
+EONET_19455,"SHNF C-43N RX Prescribed Fire, Walker, Texas",Wildfires,IRWIN,712.0,acres,2026-04-07,-95.57925,30.524133
+EONET_19454,"RX Reeve&#039;s Fork Prescribed Fire, Newton, Arkansas",Wildfires,IRWIN,951.0,acres,2026-04-07,-93.464358,35.808903
+EONET_19459,"SUNNY SLOPES Wildfire, Osage, Oklahoma",Wildfires,IRWIN,2304.0,acres,2026-04-07,-96.616347,36.463582
+EONET_19456,"RX CALE BU 30-33 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,1593.0,acres,2026-04-07,-92.562217,31.197633
+EONET_19451,"RX VANDERSLICE UNIT 8 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,1463.0,acres,2026-04-07,-93.484417,34.671333
+EONET_19413,"Meadow View Wildfire, Potter, Texas",Wildfires,IRWIN,1262.0,acres,2026-04-06,-101.832244,35.468784
+EONET_19460,"rx-Lapham Good Oak 2026 Prescribed Fire, Waukesha, Wisconsin",Wildfires,IRWIN,638.0,acres,2026-04-06,-88.3992015,43.0403647
+EONET_19572,"Big Wilson RX Prescribed Fire, Bath, Virginia",Wildfires,IRWIN,2000.0,acres,2026-04-06,-79.821194,37.951306
+EONET_19589,"Comers Rock RX Prescribed Fire, Wythe, Virginia",Wildfires,IRWIN,1377.0,acres,2026-04-06,-81.191833,36.7655
+EONET_19453,"LON - Auger Springs RX Prescribed Fire, Laurel, Kentucky",Wildfires,IRWIN,1887.0,acres,2026-04-06,-84.229,36.969
+EONET_19408,"Compartment 163/164 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1742.0,acres,2026-04-06,-83.464333,33.36415
+EONET_19407,"Compartment 135 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1682.0,acres,2026-04-06,-83.505083,33.198667
+EONET_19462,"RX East Horseshoe Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,806.0,acres,2026-04-06,-94.260589,34.766957
+EONET_19461,"RX MOUNT IDA 23 24 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,777.0,acres,2026-04-06,-93.649722,34.524444
+EONET_19349,"Holly Springs IU 81-1 83-1 RX Prescribed Fire, Lafayette, Mississippi",Wildfires,IRWIN,2113.0,acres,2026-04-06,-89.382263,34.49759
+EONET_19351,"EASTER PASTURE Wildfire, Hendry, Florida",Wildfires,IRWIN,562.0,acres,2026-04-05,-81.0269444,26.4713889
+EONET_19425,"Williams Creek Wildfire, Perry, Alabama",Wildfires,IRWIN,1650.0,acres,2026-04-04,-87.04236,32.76539
+EONET_19587,"COVELO SOUTH VMP RX Prescribed Fire, Mendocino, California",Wildfires,IRWIN,655.0,acres,2026-04-04,-123.20401,39.718807
+EONET_19356,"APQ Area 10 &amp; 10B Rx 0403 Prescribed Fire, Highlands, Florida",Wildfires,IRWIN,1800.0,acres,2026-04-03,-81.172485,27.607297
+EONET_19350,"Hilux Wildfire, Collier, Florida",Wildfires,IRWIN,511.0,acres,2026-04-03,-81.279167,26.228889
+EONET_19355,"SPRINGS Wildfire, Riverside, California",Wildfires,IRWIN,4176.0,acres,2026-04-03,-117.078415,33.891678
+EONET_19357,"rx-Young 1 Prescribed Fire, Jefferson, Wisconsin",Wildfires,IRWIN,802.3,acres,2026-04-03,-88.630401,42.8455985
+EONET_19848,"C-31 RX Burn 2 Prescribed Fire, Aiken, South Carolina",Wildfires,IRWIN,863.0,acres,2026-04-03,-81.586056,33.339944
+EONET_19352,"Sargent Wildfire, Polk, Florida",Wildfires,IRWIN,2523.0,acres,2026-04-02,-82.4283333,30.5716667
+EONET_19203,"rx-12_ 13_ 14 Prescribed Fire, Burnett, Wisconsin",Wildfires,IRWIN,655.7,acres,2026-04-02,-92.6888328,45.7153853
+EONET_19204,"Rx Houston 3041 Prescribed Fire, Houston, Texas",Wildfires,IRWIN,1000.0,acres,2026-04-02,-95.537898,31.407942
+EONET_19847,"C-82 RX Burn 6 Prescribed Fire, Barnwell, South Carolina",Wildfires,IRWIN,910.0,acres,2026-04-02,-81.497269,33.214186
+EONET_19208,"RX PCS Beauchamp North Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1402.0,acres,2026-04-01,-94.327475,34.800258
+EONET_19842,"Elkhorn RX Prescribed Fire, Augusta, Virginia",Wildfires,IRWIN,1118.0,acres,2026-04-01,-79.221611,38.337334
+EONET_19229,"Julie Pond Wildfire, Dorchester, Maryland",Wildfires,IRWIN,1500.0,acres,2026-03-31,-75.97625,38.396085
+EONET_19232,"Caddo Lake C-6 RX Prescribed Fire, Harrison, Texas",Wildfires,IRWIN,509.0,acres,2026-03-31,-94.104296,32.667308
+EONET_19224,"C-148 BLK 9 10 &amp; 11 EN RX Prescribed Fire, Newberry, South Carolina",Wildfires,IRWIN,606.3,acres,2026-03-31,-81.528333,34.421667
+EONET_19225,"Middle Toe Wildfire, Pittsburg, Oklahoma",Wildfires,IRWIN,505.0,acres,2026-03-30,-95.3977778,35.0475
+EONET_19194,"Hall Thompson Lane Wildfire, Shelby, Alabama",Wildfires,IRWIN,2500.0,acres,2026-03-30,-86.5408333,33.4077778
+EONET_19803,"Tracy Ridge Rx Prescribed Fire, Warren, Pennsylvania",Wildfires,IRWIN,2044.0,acres,2026-03-30,-78.916783,41.91305
+EONET_19239,"Sweetwater Wildfire, Marengo, Alabama",Wildfires,IRWIN,570.0,acres,2026-03-30,-87.915,32.2358333
+EONET_19237,"RX PCS Henry Mountain Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1888.0,acres,2026-03-30,-94.248164,34.805454
+EONET_19233,"DCNF C37 RX Prescribed Fire, Houston, Texas",Wildfires,IRWIN,1373.0,acres,2026-03-30,-95.258555,31.347207
+EONET_19234,"RX Forks 14 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,3795.0,acres,2026-03-30,-93.801389,34.564167
+EONET_19238,"Chickasawhay CPT 373 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1444.0,acres,2026-03-30,-88.8988,31.5429
+EONET_19212,"14B/14C RX Prescribed Fire, Jones, Georgia",Wildfires,IRWIN,501.0,acres,2026-03-30,-83.6958,33.1173
+EONET_19236,"ANF Turkey Creek C-7 RX Prescribed Fire, San Augustine, Texas",Wildfires,IRWIN,1667.0,acres,2026-03-30,-94.193667,31.413583
+EONET_19205,"Lamar Bennett Trail Wildfire, Ware, Georgia",Wildfires,IRWIN,1279.0,acres,2026-03-29,-82.5197222,31.4411111
+EONET_19207,"Cane Creek Wildfire, Wilkes, North Carolina",Wildfires,IRWIN,600.0,acres,2026-03-29,-81.1739,36.31295
+EONET_19439,"Long Ridge Rx Unit 37 38 46 49 Prescribed Fire, Athens, Ohio",Wildfires,IRWIN,2006.0,acres,2026-03-29,-82.146232,39.474996
+EONET_19235,"Long Ridge Rx Unit 41 &amp; 47 Prescribed Fire, Athens, Ohio",Wildfires,IRWIN,728.0,acres,2026-03-29,-82.124323,39.449275
+EONET_19245,"Birdseye RX Prescribed Fire, Crawford, Indiana",Wildfires,IRWIN,633.0,acres,2026-03-29,-86.6787,38.3132
+EONET_19213,"Compartment 154 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1501.0,acres,2026-03-29,-83.41644,33.376697
+EONET_19241,"Johnson Hills Wildfire, Phelps, Nebraska",Wildfires,IRWIN,1200.0,acres,2026-03-29,-99.615742,40.496668
+EONET_19247,"rx-Refuge Pool South Prescribed Fire, Juneau, Wisconsin",Wildfires,IRWIN,609.2,acres,2026-03-29,-90.2632005,44.2254153
+EONET_19246,"McClurg RX Prescribed Fire, Ozark, Missouri",Wildfires,IRWIN,2134.0,acres,2026-03-29,-92.754167,36.800278
+EONET_19242,"BOMAN Wildfire, Osage, Oklahoma",Wildfires,IRWIN,1810.0,acres,2026-03-28,-96.077,36.5468
+EONET_19249,"BISON LOOP Wildfire, Osage, Oklahoma",Wildfires,IRWIN,2910.0,acres,2026-03-28,-96.45943,36.820957
+EONET_19243,"Sheep Creek RX Prescribed Fire, Lemhi, Idaho",Wildfires,IRWIN,1300.0,acres,2026-03-27,-113.921867,45.526033
+EONET_19226,"Old 66 Wildfire, Quay, New Mexico",Wildfires,IRWIN,3668.0,acres,2026-03-27,-103.285447,35.146209
+EONET_19252,"Carroll Co State Assist Wildfire, Carroll, Mississippi",Wildfires,IRWIN,1500.0,acres,2026-03-27,-89.955556,33.374444
+EONET_18975,"Rx Hardin 2806 Prescribed Fire, Hardin, Texas",Wildfires,IRWIN,650.0,acres,2026-03-27,-94.34081,30.3957
+EONET_19240,"3R RX - COYOTE Prescribed Fire, Ferry, Washington",Wildfires,IRWIN,841.0,acres,2026-03-27,-118.249869,48.589957
+EONET_18971,"Carroll - CR 145 Wildfire, Carroll, Mississippi",Wildfires,IRWIN,1500.0,acres,2026-03-27,-89.9555556,33.3744444
+EONET_18979,"Salt Wildfire, Stafford, Kansas",Wildfires,IRWIN,500.0,acres,2026-03-27,-98.47647,38.20875
+EONET_18984,"Big Toe Wildfire, Pittsburg, Oklahoma",Wildfires,IRWIN,1208.0,acres,2026-03-27,-95.3672222,35.0533333
+EONET_19250,"Shady Grove Wildfire, Craig, Oklahoma",Wildfires,IRWIN,600.0,acres,2026-03-26,-95.0955556,36.9369444
+EONET_19716,"BRUI Dogie RX Prescribed Fire, Coconino, Arizona",Wildfires,IRWIN,643.0,acres,2026-03-26,-111.117611,34.664046
+EONET_18982,"BOX Wildfire, Osage, Oklahoma",Wildfires,IRWIN,2486.0,acres,2026-03-26,-96.6398,36.4778
+EONET_18989,"Cedar Canyon Wildfire, Blaine, Oklahoma",Wildfires,IRWIN,620.0,acres,2026-03-26,-98.3569444,36.005
+EONET_18973,"RL 005 CB Wildfire, Clearwater, Minnesota",Wildfires,IRWIN,658.0,acres,2026-03-26,-95.257567,47.885474
+EONET_18995,"Homochitto BB 2 RX Prescribed Fire, Copiah, Mississippi",Wildfires,IRWIN,555.0,acres,2026-03-26,-90.734,31.736
+EONET_18987,"Minor Wildfire, Grant, Nebraska",Wildfires,IRWIN,13805.0,acres,2026-03-26,-101.760772,42.001111
+EONET_18988,"Ashby Wildfire, Grant, Nebraska",Wildfires,IRWIN,37150.0,acres,2026-03-26,-101.927778,42.021944
+EONET_18994,"RX WINN BU 37 Prescribed Fire, Winn, Louisiana",Wildfires,IRWIN,1816.0,acres,2026-03-26,-92.825556,32.036667
+EONET_19248,"ANF Upland Island N 68/69/70 RX Prescribed Fire, Angelina, Texas",Wildfires,IRWIN,5010.0,acres,2026-03-26,-94.35225,31.103717
+EONET_18993,"RX CALE BU 41 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,925.0,acres,2026-03-26,-92.646933,31.135
+EONET_19195,"C-38B_41 EN RX Prescribed Fire, Union, South Carolina",Wildfires,IRWIN,1059.0,acres,2026-03-26,-81.635,34.588056
+EONET_18986,"Zipperer Wildfire, Pittsburg, Oklahoma",Wildfires,IRWIN,1216.0,acres,2026-03-26,-95.5319444,34.7991667
+EONET_18992,"Turkey Wildfire, Huerfano, Colorado",Wildfires,IRWIN,638.0,acres,2026-03-25,-104.638056,37.846389
+EONET_18990,"Warthog Wildfire, Trinity, Texas",Wildfires,IRWIN,815.0,acres,2026-03-25,-95.158513,31.131093
+EONET_19214,"Compartment 144 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,878.0,acres,2026-03-25,-83.476397,33.240418
+EONET_19006,"College Drive Wildfire, Monroe, Alabama",Wildfires,IRWIN,708.0,acres,2026-03-25,-86.9869444,31.83
+EONET_19005,"Warren RX Prescribed Fire, Lawrence, Alabama",Wildfires,IRWIN,809.0,acres,2026-03-25,-87.2674,34.365
+EONET_18996,"DCNF C-119-121 RX Prescribed Fire, Trinity, Texas",Wildfires,IRWIN,4234.0,acres,2026-03-25,-94.886818,31.189088
+EONET_18998,"IDNR- Sand Ridge State Forest RX Prescribed Fire, Mason, Illinois",Wildfires,IRWIN,1750.0,acres,2026-03-25,-89.8787,40.400583
+EONET_19003,"RX PCS Andy Knight South Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,3264.0,acres,2026-03-25,-94.318322,34.818241
+EONET_18999,"RX Sharp Top 1 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,3812.0,acres,2026-03-25,-93.545833,34.425278
+EONET_19002,"RX Vanderslice Unit 7/8 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,2511.0,acres,2026-03-25,-93.46725,34.669806
+EONET_19244,"CMB - Powder Mill RX Prescribed Fire, Menifee, Kentucky",Wildfires,IRWIN,1081.0,acres,2026-03-25,-83.68166,37.878829
+EONET_19576,"RED - Hurricane Branch RX Prescribed Fire, Leslie, Kentucky",Wildfires,IRWIN,1505.0,acres,2026-03-25,-83.52107,37.067529
+EONET_18991,"FENCO FARMS (38) Wildfire, Levy, Florida",Wildfires,IRWIN,572.98,acres,2026-03-24,-82.5494444,29.0691667
+EONET_19007,"Compartment 128 RX Prescribed Fire, Jones, Georgia",Wildfires,IRWIN,1014.0,acres,2026-03-24,-83.494928,33.117915
+EONET_19227,"D7 Brushy MTN North RX Prescribed Fire, Apache, Arizona",Wildfires,IRWIN,1014.0,acres,2026-03-24,-109.79702,34.130612
+EONET_19582,"WARE Wildfire, Osage, Oklahoma",Wildfires,IRWIN,2271.0,acres,2026-03-24,-96.267969,36.802463
+EONET_19457,"Two Calf Unit A RX Prescribed Fire, Fergus, Montana",Wildfires,IRWIN,2210.0,acres,2026-03-24,-108.900717,47.625617
+EONET_19441,"Sunny Oaks Rx Unit 4 Prescribed Fire, Lawrence, Ohio",Wildfires,IRWIN,846.0,acres,2026-03-24,-82.506944,38.718611
+EONET_19008,"Iron Post Wildfire, Cherokee, Oklahoma",Wildfires,IRWIN,1309.0,acres,2026-03-24,-95.1038333,36.1373333
+EONET_19012,"PENNEL CREEK Wildfire, Osage, Oklahoma",Wildfires,IRWIN,698.0,acres,2026-03-24,-96.125892,36.627446
+EONET_18985,"Hutchinson Wildfire, Hutchinson, Texas",Wildfires,IRWIN,2937.0,acres,2026-03-24,-101.4915333,35.71033333
+EONET_19014,"ADAMS FAMILY Wildfire, Osage, Oklahoma",Wildfires,IRWIN,568.0,acres,2026-03-24,-96.15697,36.4916
+EONET_18981,"RX PCS Ross Creek Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,3009.0,acres,2026-03-24,-94.194099,34.822777
+EONET_19011,"RX Whiskey Springs 3 Prescribed Fire, Crawford, Arkansas",Wildfires,IRWIN,2343.0,acres,2026-03-24,-94.3509,35.7401
+EONET_19010,"RX Mount Ida 7 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,698.0,acres,2026-03-24,-93.668056,34.584167
+EONET_19013,"RX SOUTH LONE PINE Prescribed Fire, Pittsburg, Oklahoma",Wildfires,IRWIN,1369.0,acres,2026-03-24,-95.6025,34.6885
+EONET_19004,"Bald Mountain RX Prescribed Fire, Craig, Virginia",Wildfires,IRWIN,1193.0,acres,2026-03-24,-80.063054,37.598086
+EONET_19215,"Compartment 119_120 RX Prescribed Fire, Jasper, Georgia",Wildfires,IRWIN,2245.0,acres,2026-03-24,-83.674067,33.169817
+EONET_18750,"90 Degrees Wildfire, Latimer, Oklahoma",Wildfires,IRWIN,600.0,acres,2026-03-24,-95.2988889,35.0336111
+EONET_18972,"Old Kentucky Wildfire, Sequoyah, Oklahoma",Wildfires,IRWIN,712.0,acres,2026-03-23,-94.7365,35.6228333
+EONET_18758,"Luna Branch Wildfire, Adair, Oklahoma",Wildfires,IRWIN,1250.0,acres,2026-03-23,-94.7343333,36.1103333
+EONET_18768,"Oxbow Wildfire, Okfuskee, Oklahoma",Wildfires,IRWIN,2068.0,acres,2026-03-23,-96.4380556,35.5188889
+EONET_18772,"Polk Treat Mountain Wildfire, Floyd, Georgia",Wildfires,IRWIN,500.0,acres,2026-03-23,-85.4469444,34.2797222
+EONET_19440,"One Mile Rx Prescribed Fire, Greenbrier, West Virginia",Wildfires,IRWIN,770.0,acres,2026-03-23,-80.131283,37.977383
+EONET_19723,"Lock Ridge Rx Prescribed Fire, Pocahontas, West Virginia",Wildfires,IRWIN,2460.0,acres,2026-03-23,-79.945217,38.15295
+EONET_19009,"Big Hollow RX Prescribed Fire, Shannon, Missouri",Wildfires,IRWIN,659.0,acres,2026-03-23,-91.245283,37.024717
+EONET_18780,"MIDDLE CREEK Wildfire, Hughes, Oklahoma",Wildfires,IRWIN,2026.0,acres,2026-03-23,-95.987222,35.207222
+EONET_18781,"SALTSMAN Wildfire, McIntosh, Oklahoma",Wildfires,IRWIN,680.0,acres,2026-03-23,-95.803611,35.203333
+EONET_18763,"Bienville CPT 65 66 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,1777.0,acres,2026-03-23,-89.3958,32.3396
+EONET_18786,"Barbed Wire Wildfire, Sequoyah, Oklahoma",Wildfires,IRWIN,600.0,acres,2026-03-23,-94.7688333,35.6081667
+EONET_18760,"DeSoto BB 0250 C-597 RX Prescribed Fire, Harrison, Mississippi",Wildfires,IRWIN,802.0,acres,2026-03-23,-89.0925,30.671033
+EONET_18767,"Indian Creek RX Prescribed Fire, Washington, Missouri",Wildfires,IRWIN,1469.0,acres,2026-03-23,-90.96295,37.99645
+EONET_18757,"RX FY26 North River Road RX BIL Prescribed Fire, Newton, Arkansas",Wildfires,IRWIN,700.0,acres,2026-03-23,-93.163889,36.059167
+EONET_18779,"Chickasawhay CPT 373 377 378 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1600.0,acres,2026-03-23,-88.913,31.529
+EONET_19727,"Sherman Hunter Camp North RX Prescribed Fire, Clay, Alabama",Wildfires,IRWIN,664.0,acres,2026-03-23,-86.100556,33.266944
+EONET_18788,"NAN Split White Oak RX Prescribed Fire, Macon, North Carolina",Wildfires,IRWIN,1025.0,acres,2026-03-23,-83.5877,35.2159
+EONET_18789,"Sonny Glle Wildfire, Adair, Oklahoma",Wildfires,IRWIN,560.0,acres,2026-03-23,-94.6327778,35.6419444
+EONET_18790,"Pumpkin Hollow Wildfire, Cherokee, Oklahoma",Wildfires,IRWIN,1126.4,acres,2026-03-23,-94.8066667,36.0330556
+EONET_19196,"C-27/40 EN RX Prescribed Fire, Union, South Carolina",Wildfires,IRWIN,1132.0,acres,2026-03-23,-81.650833,34.636389
+EONET_19360,"C-148 FM RX Prescribed Fire, Berkeley, South Carolina",Wildfires,IRWIN,1162.0,acres,2026-03-23,-79.537472,33.17875
+EONET_18769,"Cross Timber Wildfire, Pottawatomie, Oklahoma",Wildfires,IRWIN,857.0,acres,2026-03-22,-96.9775,35.015
+EONET_18756,"Dennison Hollow/Stoneface RX Prescribed Fire, Pope, Illinois",Wildfires,IRWIN,1382.0,acres,2026-03-22,-88.701897,37.384629
+EONET_19216,"Compartment 117 RX Prescribed Fire, Jasper, Georgia",Wildfires,IRWIN,1203.0,acres,2026-03-22,-83.789,33.161772
+EONET_18771,"Jumping Juniper Wildfire, Dewey, Oklahoma",Wildfires,IRWIN,623.0,acres,2026-03-22,-99.2852778,36.0866667
+EONET_18751,"Tippah - CR 250 Wildfire, Tippah, Mississippi",Wildfires,IRWIN,802.0,acres,2026-03-22,-88.7819444,34.8483333
+EONET_18752,"BAKER RD Wildfire, Calhoun, Florida",Wildfires,IRWIN,500.0,acres,2026-03-22,-85.3222222,30.5072222
+EONET_19217,"6D/7S/8A RX Prescribed Fire, Jones, Georgia",Wildfires,IRWIN,809.0,acres,2026-03-22,-83.7338,33.1396
+EONET_18785,"Compartment 153 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,920.0,acres,2026-03-22,-83.461761,33.320013
+EONET_18797,"Pound Gap RX Prescribed Fire, Wise, Virginia",Wildfires,IRWIN,1513.0,acres,2026-03-22,-82.462667,36.892
+EONET_18787,"North River RX Prescribed Fire, Augusta, Virginia",Wildfires,IRWIN,1513.0,acres,2026-03-22,-79.283194,38.416361
+EONET_18791,"RX East End Bear Mountain Prescribed Fire, Garland, Arkansas",Wildfires,IRWIN,3577.0,acres,2026-03-22,-93.309722,34.555278
+EONET_18798,"CRO C-35/C-36 Old Church Rd RX Prescribed Fire, Carteret, North Carolina",Wildfires,IRWIN,924.0,acres,2026-03-22,-77.1,34.778333
+EONET_18770,"Sunshine Hollow Wildfire, Pushmataha, Oklahoma",Wildfires,IRWIN,1600.0,acres,2026-03-22,-95.5191667,34.3602778
+EONET_18778,"KANE Wildfire, Big Horn, Wyoming",Wildfires,IRWIN,1915.0,acres,2026-03-21,-108.222067,44.860117
+EONET_18793,"Grey Road Wildfire, Butler, Kansas",Wildfires,IRWIN,1557.0,acres,2026-03-21,-96.5991,37.6749
+EONET_19218,"Compartment 157 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1293.0,acres,2026-03-21,-83.414038,33.41174
+EONET_18766,"RX PCS Buffalo 1 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,652.0,acres,2026-03-21,-94.216,34.806
+EONET_18799,"RX Beau Champ South Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1033.0,acres,2026-03-21,-93.870917,34.882067
+EONET_18801,"RX CAT BU 3 Prescribed Fire, Grant, Louisiana",Wildfires,IRWIN,1455.0,acres,2026-03-21,-92.445278,31.740833
+EONET_18774,"Burgess East Wildfire, Clay, Alabama",Wildfires,IRWIN,1020.0,acres,2026-03-21,-85.917891,33.364143
+EONET_18782,"Hall Valley Rd Wildfire, Floyd, Georgia",Wildfires,IRWIN,509.0,acres,2026-03-21,-85.4477778,34.2769444
+EONET_18802,"Compartment 146 RX Prescribed Fire, Perry, Alabama",Wildfires,IRWIN,1300.0,acres,2026-03-21,-87.055383,32.674783
+EONET_18748,"TUS Elbow Creek RX Prescribed Fire, Cherokee, North Carolina",Wildfires,IRWIN,1903.0,acres,2026-03-21,-84.254,35.220783
+EONET_18810,"SAND CREEK Wildfire, Osage, Oklahoma",Wildfires,IRWIN,5000.0,acres,2026-03-21,-96.280622,36.426885
+EONET_18796,"Flatwoods Rx Prescribed Fire, Wise, Virginia",Wildfires,IRWIN,1400.0,acres,2026-03-21,-82.450217,36.90875
+EONET_19197,"C-28A EN RX Prescribed Fire, Union, South Carolina",Wildfires,IRWIN,607.0,acres,2026-03-21,-81.683333,34.644444
+EONET_18800,"Spice Run Rx Prescribed Fire, Alleghany, Virginia",Wildfires,IRWIN,502.0,acres,2026-03-21,-80.07,37.655333
+EONET_19220,"32N/33B RX Prescribed Fire, Jones, Georgia",Wildfires,IRWIN,572.0,acres,2026-03-20,-83.6682,33.0131
+EONET_19219,"Compartment 134 RX Prescribed Fire, Jones, Georgia",Wildfires,IRWIN,2200.0,acres,2026-03-20,-83.480883,33.1793
+EONET_18807,"Big Mineral North RX Prescribed Fire, Grayson, Texas",Wildfires,IRWIN,746.0,acres,2026-03-20,-96.789282,33.705185
+EONET_18803,"Sandpiper Wildfire, Natrona, Wyoming",Wildfires,IRWIN,6287.0,acres,2026-03-20,-106.14654,42.90757
+EONET_18794,"Sharp Rock RX Prescribed Fire, Jackson, Illinois",Wildfires,IRWIN,1318.0,acres,2026-03-20,-89.513588,37.830978
+EONET_18820,"RX PCS South Waldron Ridge 10 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,837.0,acres,2026-03-20,-93.870917,34.882067
+EONET_18811,"RX PCS Turkey Creek East Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1613.0,acres,2026-03-20,-93.97866,34.768276
+EONET_18777,"SAND CREEK Wildfire, Osage, Oklahoma",Wildfires,IRWIN,5000.0,acres,2026-03-20,-96.280967,36.4266
+EONET_19000,"Rattlesnake RX Prescribed Fire, Luna, New Mexico",Wildfires,IRWIN,3200.0,acres,2026-03-20,-107.62402,32.45655
+EONET_18823,"Ridge Road RX Prescribed Fire, Clay, Alabama",Wildfires,IRWIN,2442.0,acres,2026-03-20,-85.908056,33.441667
+EONET_18812,"Seed Tick Tornado West RX Prescribed Fire, Wayne, Missouri",Wildfires,IRWIN,702.0,acres,2026-03-20,-90.68759,36.955356
+EONET_18776,"Homochitto BB 42 sub 4 RX Prescribed Fire, Franklin, Mississippi",Wildfires,IRWIN,771.0,acres,2026-03-20,-91.077,31.372
+EONET_18808,"SNF Red Hills C-71/72/74 RX Prescribed Fire, Sabine, Texas",Wildfires,IRWIN,2333.0,acres,2026-03-20,-93.809533,31.469917
+EONET_18822,"Chickasawhay CPT 433 RX Prescribed Fire, Wayne, Mississippi",Wildfires,IRWIN,1105.0,acres,2026-03-20,-88.7483,31.4912
+EONET_18824,"Brown Creek RX Prescribed Fire, Lawrence, Alabama",Wildfires,IRWIN,854.0,acres,2026-03-20,-87.2295,34.30163
+EONET_18817,"RX BO/MAG Dean Reid Prescribed Fire, Logan, Arkansas",Wildfires,IRWIN,674.0,acres,2026-03-20,-93.365711,35.220262
+EONET_18821,"Compartment 104 RX Prescribed Fire, Bibb, Alabama",Wildfires,IRWIN,1048.0,acres,2026-03-20,-87.028753,32.888971
+EONET_18816,"RX Vanderslice Unit 6 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,2088.0,acres,2026-03-20,-93.411794,34.638603
+EONET_18814,"RX Mt Clair Prescribed Fire, Polk, Arkansas",Wildfires,IRWIN,918.0,acres,2026-03-20,-94.313611,34.411944
+EONET_18815,"RX Buck Crk SU1 Prescribed Fire, McCurtain, Oklahoma",Wildfires,IRWIN,500.0,acres,2026-03-20,-94.71035,34.338967
+EONET_19370,"C-242 GOVERNOR SCHOOL LC RX Prescribed Fire, McCormick, South Carolina",Wildfires,IRWIN,572.0,acres,2026-03-20,-82.402642,33.943442
+EONET_19371,"C-249 MIDDLE LC RX Prescribed Fire, McCormick, South Carolina",Wildfires,IRWIN,704.0,acres,2026-03-20,-82.478506,33.931944
+EONET_19198,"C-105/106 EN RX Prescribed Fire, Newberry, South Carolina",Wildfires,IRWIN,1293.0,acres,2026-03-20,-81.575,34.467222
+EONET_18997,"Grasshopper Hollow RX Prescribed Fire, Reynolds, Missouri",Wildfires,IRWIN,1410.0,acres,2026-03-19,-91.098967,37.432883
+EONET_19221,"4B/4C RX Prescribed Fire, Jasper, Georgia",Wildfires,IRWIN,509.0,acres,2026-03-19,-83.7738,33.1448
+EONET_18813,"Sulphur Springs RX Prescribed Fire, Pope, Illinois",Wildfires,IRWIN,869.0,acres,2026-03-19,-88.552696,37.44427
+EONET_18842,"Goose Creek RX Prescribed Fire, Butler, Missouri",Wildfires,IRWIN,1438.0,acres,2026-03-19,-90.526367,36.890617
+EONET_18753,"Mill Pond Wildfire, Liberty, Florida",Wildfires,IRWIN,1752.0,acres,2026-03-19,-84.812867,30.310367
+EONET_19222,"Compartment 107 RX Prescribed Fire, Jasper, Georgia",Wildfires,IRWIN,1896.0,acres,2026-03-19,-83.812067,33.235117
+EONET_18828,"RX Hog Jaw 1/2 &amp; Shirley Creek 10 Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,2112.0,acres,2026-03-19,-93.784444,34.5875
+EONET_18841,"Beech Creek RX Prescribed Fire, Lawrence, Alabama",Wildfires,IRWIN,807.0,acres,2026-03-19,-87.3185,34.314694
+EONET_18838,"Burgess Point W RX Prescribed Fire, Clay, Alabama",Wildfires,IRWIN,1692.0,acres,2026-03-19,-85.906632,33.380666
+EONET_18826,"RX WINN BU 6 Prescribed Fire, Winn, Louisiana",Wildfires,IRWIN,1405.0,acres,2026-03-19,-92.874123,32.127716
+EONET_18829,"DCNF C-71/72/73 RX Prescribed Fire, Houston, Texas",Wildfires,IRWIN,4029.0,acres,2026-03-19,-95.187895,31.25011
+EONET_18830,"SNF Mclemore Hills RX Prescribed Fire, Sabine, Texas",Wildfires,IRWIN,2280.0,acres,2026-03-19,-93.7682,31.27175
+EONET_18836,"RX Vanderslice Prescribed Fire, Montgomery, Arkansas",Wildfires,IRWIN,1688.0,acres,2026-03-19,-93.5005,34.642028
+EONET_18849,"Rx Lamar 2579 Prescribed Fire, Lamar, Texas",Wildfires,IRWIN,750.0,acres,2026-03-19,-95.70388889,33.81055556
+EONET_19575,"IDNR - Forbes West &amp; South RX Prescribed Fire, Marion, Illinois",Wildfires,IRWIN,844.0,acres,2026-03-19,-88.78,38.726
+EONET_18832,"RX PCS Turkey Creek West Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,2490.0,acres,2026-03-19,-93.97866,34.768276
+EONET_19574,"IDNR - JPEC SFWA RX Prescribed Fire, Cass, Illinois",Wildfires,IRWIN,1400.0,acres,2026-03-19,-90.105,40.0383
+EONET_18831,"SHNF C-37 RX Prescribed Fire, Montgomery, Texas",Wildfires,IRWIN,973.0,acres,2026-03-19,-95.635033,30.525217
+EONET_18835,"RX BO/MAG Egypt Hollow 1 Prescribed Fire, Logan, Arkansas",Wildfires,IRWIN,1651.0,acres,2026-03-19,-93.4343,35.257
+EONET_18840,"Compartment 20 RX Prescribed Fire, Hale, Alabama",Wildfires,IRWIN,1467.0,acres,2026-03-19,-87.507098,32.981519
+EONET_18834,"RX CALE BU 45 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,764.0,acres,2026-03-19,-92.616,31.1053
+EONET_18837,"RX Potato Knob Prescribed Fire, Franklin, Arkansas",Wildfires,IRWIN,1400.0,acres,2026-03-19,-93.911,35.7
+EONET_18818,"RX FY26 PERI Roundtop Cox BIL Prescribed Fire, Benton, Arkansas",Wildfires,IRWIN,537.0,acres,2026-03-19,-94.0487,36.4452
+EONET_18833,"RX Fourche Valley Unit 5 Prescribed Fire, Yell, Arkansas",Wildfires,IRWIN,1880.0,acres,2026-03-19,-93.514833,34.958417
+EONET_18848,"DRUMMOND Wildfire, Osage, Oklahoma",Wildfires,IRWIN,5000.0,acres,2026-03-18,-96.3132,36.3578
+EONET_19358,"BORDER 2 RX Prescribed Fire, Cochise, Arizona",Wildfires,IRWIN,1255.0,acres,2026-03-18,-110.305833,31.356667
+EONET_18765,"LAAF RX Prescribed Fire, Cochise, Arizona",Wildfires,IRWIN,630.0,acres,2026-03-18,-110.331944,31.581389
+EONET_19223,"Compartment 145 RX Prescribed Fire, Putnam, Georgia",Wildfires,IRWIN,1345.0,acres,2026-03-18,-83.520117,33.2402
+EONET_18754,"24 Wildfire, Fremont, Colorado",Wildfires,IRWIN,7385.0,acres,2026-03-18,-104.963722,38.527029
+EONET_18845,"D2 Sinkhole RX Prescribed Fire, Coconino, Arizona",Wildfires,IRWIN,876.0,acres,2026-03-18,-110.8792,34.3097
+EONET_18847,"Homochitto BB65sub3 RX Prescribed Fire, Amite, Mississippi",Wildfires,IRWIN,947.0,acres,2026-03-18,-90.998,31.302
+EONET_18854,"Tombigbee IU 20-1 RX Prescribed Fire, Chickasaw, Mississippi",Wildfires,IRWIN,1037.0,acres,2026-03-18,-88.9175,33.9493
+EONET_18855,"Bienville Cpt 36 &amp; 37 RX Prescribed Fire, Scott, Mississippi",Wildfires,IRWIN,2139.0,acres,2026-03-18,-89.6363,32.3932
+EONET_18868,"DCNF C-70/71 RX Prescribed Fire, Houston, Texas",Wildfires,IRWIN,1693.0,acres,2026-03-18,-95.202153,31.277529
+EONET_18867,"DCNF C-3 RX Prescribed Fire, Houston, Texas",Wildfires,IRWIN,1277.0,acres,2026-03-18,-95.287414,31.478816
+EONET_18851,"SHNF C-16/17 RX Prescribed Fire, Montgomery, Texas",Wildfires,IRWIN,1662.0,acres,2026-03-18,-95.71155,30.535383
+EONET_18865,"Quail E RX Prescribed Fire, Clay, Alabama",Wildfires,IRWIN,672.0,acres,2026-03-18,-86.1,33.2
+EONET_18871,"RX KENWOOD 25 26 Prescribed Fire, Delaware, Oklahoma",Wildfires,IRWIN,1185.0,acres,2026-03-18,-94.821583,36.285056
+EONET_18872,"RX SOUTH 6000 Prescribed Fire, Pittsburg, Oklahoma",Wildfires,IRWIN,1534.0,acres,2026-03-18,-95.5726,34.7039
+EONET_18866,"SNF Triumph Church C-27/28 RX Prescribed Fire, Shelby, Texas",Wildfires,IRWIN,1401.0,acres,2026-03-18,-93.958717,31.714333
+EONET_18853,"RX BO/MAG Prairie South 3&amp;4 Prescribed Fire, Yell, Arkansas",Wildfires,IRWIN,954.0,acres,2026-03-18,-93.3897,35.1505
+EONET_18857,"IDNR Pyramid (Captain) RX Prescribed Fire, Perry, Illinois",Wildfires,IRWIN,588.0,acres,2026-03-18,-89.511504,38.026954
+EONET_18860,"RX Pedestal Rocks 2 Prescribed Fire, Pope, Arkansas",Wildfires,IRWIN,1138.0,acres,2026-03-18,-93.028483,35.687897
+EONET_18858,"RX CALE BU 57 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,1025.0,acres,2026-03-18,-92.61045,31.015383
+EONET_18783,"RATTLESNAKE HOLLOW Wildfire, McIntosh, Oklahoma",Wildfires,IRWIN,1026.8,acres,2026-03-18,-95.921667,35.285278
+EONET_18870,"Compartment 19 RX Prescribed Fire, Hale, Alabama",Wildfires,IRWIN,1602.0,acres,2026-03-18,-87.498451,33.002553
+EONET_18850,"RX CAT BU 103 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,943.0,acres,2026-03-18,-92.340505,31.44231
+EONET_18869,"RX PCS McConnell 1 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,762.0,acres,2026-03-18,-94.038643,34.716671
+EONET_18862,"RX Spring Creek South Prescribed Fire, Searcy, Arkansas",Wildfires,IRWIN,1749.0,acres,2026-03-18,-92.4196,36.023633
+EONET_18863,"RX PCS Andy Knight North Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1857.0,acres,2026-03-18,-94.335138,34.830681
