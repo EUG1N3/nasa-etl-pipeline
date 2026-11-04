@@ -1,0 +1,20 @@
+event_id,event_title,category_title,source,magnitude_value,magnitude_unit,event_date
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,35.0,kts,2026-11-01
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,40.0,kts,2026-11-01
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,55.0,kts,2026-11-01
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-01
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,60.0,kts,2026-11-02
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-02
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-02
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,85.0,kts,2026-11-03
+EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,65.0,kts,2026-11-03
+EONET_25984,"Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",Wildfires,IRWIN,902.0,acres,2026-10-30
+EONET_25990,Iceberg B22K,Sea and Lake Ice,NATICE,19.62,NM^2,2026-10-30
+EONET_25986,"Prescribed Fire McCarty Piles RX, Coconino, Arizona",Wildfires,IRWIN,832.0,acres,2026-10-29
+EONET_25985,"Prescribed Fire Freidland-Chimney Piles RX, Coconino, Arizona",Wildfires,IRWIN,1029.0,acres,2026-10-29
+EONET_25827,"Wildfire South Tank Trail, Perry, Mississippi",Wildfires,IRWIN,1000.0,acres,2026-10-28
+EONET_25829,"Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,784.0,acres,2026-10-28
+EONET_25830,"Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",Wildfires,IRWIN,700.0,acres,2026-10-28
+EONET_25828,"Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,756.0,acres,2026-10-28
+EONET_25769,"Wildfire Range  47B, Forrest, Mississippi",Wildfires,IRWIN,636.0,acres,2026-10-24
