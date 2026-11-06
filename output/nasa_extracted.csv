@@ -1,4 +1,5 @@
 event_id,event_title,category_title,source,magnitude_value,magnitude_unit,event_date,lon,lat
+EONET_26057,"Wildfire Wild River, Coos, New Hampshire",Wildfires,IRWIN,982.0,acres,2026-11-02,-71.031283,44.330583
 EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,35.0,kts,2026-11-01,86.2,11.4
 EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,40.0,kts,2026-11-01,84.8,12.3
 EONET_25964,Tropical Cyclone Murasu,Severe Storms,JTWC,55.0,kts,2026-11-01,83.6,12.9
@@ -13,6 +14,7 @@ EONET_25984,"Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",Wildfir
 EONET_25990,Iceberg B22K,Sea and Lake Ice,NATICE,19.62,NM^2,2026-10-30,163.35,-69.76
 EONET_25986,"Prescribed Fire McCarty Piles RX, Coconino, Arizona",Wildfires,IRWIN,832.0,acres,2026-10-29,-111.262694,34.513944
 EONET_25985,"Prescribed Fire Freidland-Chimney Piles RX, Coconino, Arizona",Wildfires,IRWIN,1029.0,acres,2026-10-29,-111.666667,35.283333
+EONET_26056,"Prescribed Fire TON RX - BAILEY LOST HP, Okanogan, Washington",Wildfires,IRWIN,740.0,acres,2026-10-29,-119.055205,48.532726
 EONET_25827,"Wildfire South Tank Trail, Perry, Mississippi",Wildfires,IRWIN,1000.0,acres,2026-10-28,-89.097783,31.085833
 EONET_25829,"Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",Wildfires,IRWIN,784.0,acres,2026-10-28,-111.835978,35.259781
 EONET_25830,"Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",Wildfires,IRWIN,700.0,acres,2026-10-28,-111.315915,34.545833
@@ -65,6 +67,10 @@ EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-11-03,138.8,23.
 EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,85.0,kts,2026-11-03,138.7,23.8
 EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,85.0,kts,2026-11-04,138.4,24.4
 EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,80.0,kts,2026-11-04,138.3,25.0
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,80.0,kts,2026-11-04,138.4,25.8
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-11-04,138.5,27.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,75.0,kts,2026-11-05,140.0,28.1
+EONET_25728,Super Typhoon In-fa,Severe Storms,JTWC,60.0,kts,2026-11-05,141.5,29.4
 EONET_25590,"Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",Wildfires,IRWIN,2060.0,acres,2026-10-22,-82.8577778,30.4952778
 EONET_25768,"Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",Wildfires,IRWIN,1989.0,acres,2026-10-21,-111.657083,34.962583
 EONET_25455,"Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",Wildfires,IRWIN,2604.0,acres,2026-10-18,-84.376511,36.948746
@@ -1053,5 +1059,3 @@ EONET_18783,"RATTLESNAKE HOLLOW Wildfire, McIntosh, Oklahoma",Wildfires,IRWIN,10
 EONET_18870,"Compartment 19 RX Prescribed Fire, Hale, Alabama",Wildfires,IRWIN,1602.0,acres,2026-03-18,-87.498451,33.002553
 EONET_18850,"RX CAT BU 103 Prescribed Fire, Rapides, Louisiana",Wildfires,IRWIN,943.0,acres,2026-03-18,-92.340505,31.44231
 EONET_18869,"RX PCS McConnell 1 Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,762.0,acres,2026-03-18,-94.038643,34.716671
-EONET_18862,"RX Spring Creek South Prescribed Fire, Searcy, Arkansas",Wildfires,IRWIN,1749.0,acres,2026-03-18,-92.4196,36.023633
-EONET_18863,"RX PCS Andy Knight North Prescribed Fire, Scott, Arkansas",Wildfires,IRWIN,1857.0,acres,2026-03-18,-94.335138,34.830681
